@@ -240,7 +240,7 @@
 		E6BBA45FF86E0E70B7A4EE20 /* ColorDetail+ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ColorDetail+ViewModel.swift"; sourceTree = "<group>"; };
 		E98013EBD76486EBDEDA94BA /* Today+UseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Today+UseCase.swift"; sourceTree = "<group>"; };
 		EBDCEE48504156E0DCF31463 /* CotdFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CotdFont.swift; sourceTree = "<group>"; };
-		F222CF5D9E633DB79CB8FA20 /* ColorOTD.app */ = {isa = PBXFileReference; includeInIndex = 0; lastKnownFileType = wrapper.application; path = ColorOTD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F222CF5D9E633DB79CB8FA20 /* ColorOTD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorOTD.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F732CBEB0F9857725622E5A8 /* MessageType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageType.swift; sourceTree = "<group>"; };
 		F7538E0EF77DB33D2CF00F0F /* Today+Scene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Today+Scene.swift"; sourceTree = "<group>"; };
 		F8528768B367D9BE4850DEBE /* ColorDetail+Presenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ColorDetail+Presenter.swift"; sourceTree = "<group>"; };
@@ -614,7 +614,6 @@
 						ProvisioningStyle = Automatic;
 					};
 					9E5A0F532F397044D6252D43 = {
-						DevelopmentTeam = "";
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -811,6 +810,7 @@
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N7M2XV9XYK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Color OTD";
 				INFOPLIST_KEY_UIAppFonts = "Newsreader.ttf Newsreader-Italic.ttf Archivo.ttf SpaceMono-Regular.ttf SpaceMono-Bold.ttf";
@@ -983,6 +983,7 @@
 				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = N7M2XV9XYK;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = "Color OTD";
 				INFOPLIST_KEY_UIAppFonts = "Newsreader.ttf Newsreader-Italic.ttf Archivo.ttf SpaceMono-Regular.ttf SpaceMono-Bold.ttf";

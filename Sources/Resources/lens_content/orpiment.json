@@ -1,0 +1,156 @@
+{
+  "id": "orpiment",
+  "name": "Orpiment",
+  "hex": "#E8B923",
+  "onColor": "#2E2305",
+  "date": "Monday, 25 May 2026",
+  "dateShort": "May 25",
+  "poem": "A warm golden yellow with the look of beaten metal — and a name that tells the truth twice: gold paint, arsenic glow.",
+  "recipe": {
+    "note": "A warm golden yellow with a faint orange glow.",
+    "mix": [
+      { "name": "Cadmium yellow", "hex": "#F2C200", "parts": 6 },
+      { "name": "Orange", "hex": "#E8821A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "For three thousand years orpiment was the only true yellow available to painters — luminous, fugitive, lethal.",
+      "entries": [
+        {
+          "title": "The Book of Kells", "meta": "Insular illuminated Gospel · c. 800",
+          "blurb": "Irish monks ground orpiment to gild the haloed initials of Christ — a near-gold without the price of gold, glowing on dark vellum.",
+          "imageRef": "Illuminated manuscript",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/KellsFol032vChristEnthroned.jpg",
+          "imageCredit": "Trinity College Dublin · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Book_of_Kells"
+        },
+        {
+          "title": "Mughal Miniatures", "meta": "Imperial court atelier · 16th–17th c.",
+          "blurb": "Persian-trained painters at Akbar's court loaded their brushes with orpiment for emperors' robes and palace domes — the closest pigment to molten sun.",
+          "imageRef": "Indian miniature",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Govardhan._Jahangir_Visiting_the_Ascetic_Jadrup._ca._1616-20%2C_Musee_Guimet%2C_Paris.jpg",
+          "imageCredit": "Musée Guimet · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Mughal_painting"
+        },
+        {
+          "title": "Self-Portrait with Bandaged Ear", "meta": "Vincent van Gogh · 1889",
+          "blurb": "Van Gogh's vibrating yellows are often a mix of chrome and orpiment — the same pigment Egyptian scribes used, applied with a different kind of urgency.",
+          "imageRef": "Post-Impressionist oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg",
+          "imageCredit": "Courtauld · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Self-Portrait_with_Bandaged_Ear"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Yellow is the colour the world's spiritual traditions reach for when they want to mark the renouncer.",
+      "entries": [
+        {
+          "title": "The Saffron Robe", "meta": "Theravada Buddhism",
+          "blurb": "Monastic robes dyed with turmeric and saffron — a yellow close to orpiment, deliberately the colour of refuse cloth nobody else wanted.",
+          "imageRef": "Monastic garment"
+        },
+        {
+          "title": "Imperial Yellow", "meta": "Qing dynasty · 1644–1912",
+          "blurb": "The brightest possible yellow — \"minghuáng\" — was reserved exclusively for the Chinese emperor's robes. Wearing it without right was treason.",
+          "imageRef": "Imperial dragon robe"
+        },
+        {
+          "title": "The Yellow Star", "meta": "Nazi-occupied Europe · 1939–45",
+          "blurb": "The colour weaponised — a six-pointed yellow star imposed by Nazi decree on the clothing of Jewish people, deliberately echoing medieval marks of exclusion.",
+          "imageRef": "Holocaust artefact"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Orpiment is arsenic ore — a beautiful, useful mineral that has poisoned colourmen for as long as anyone has ground it.",
+      "entries": [
+        {
+          "title": "Orpiment Crystals", "meta": "Arsenic trisulfide · As₂S₃",
+          "blurb": "Found around volcanic fumaroles and hot springs, growing in golden tabular crystals that flake apart along glassy yellow planes.",
+          "imageRef": "Mineral specimen"
+        },
+        {
+          "title": "The Sulfur Springs", "meta": "Yellowstone National Park",
+          "blurb": "Boiling acid pools rimmed with yellow microbial mats and arsenic-rich sediments — the same chemistry that built every chunk of orpiment, still happening.",
+          "imageRef": "Geothermal field"
+        },
+        {
+          "title": "The American Goldfinch", "meta": "Spinus tristis",
+          "blurb": "The male moults into a brilliant orpiment-yellow each spring — a colour earned from a diet almost entirely of seeds.",
+          "imageRef": "Songbird, breeding plumage",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/American_goldfinch"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "When orpiment finally became too dangerous to handle, the colour didn't disappear — it just changed pigments and kept going.",
+      "entries": [
+        {
+          "title": "The Yellow Brick Road", "meta": "L. Frank Baum · 1900",
+          "blurb": "Baum's road to Oz was paved in yellow as a satirical nod to the gold standard — a colour of false promise leading nowhere but back home.",
+          "imageRef": "Illustrated children's book"
+        },
+        {
+          "title": "Yellow Submarine", "meta": "The Beatles · 1968",
+          "blurb": "An animated film soaked in psychedelic yellow — a colour the design team picked because it was joyful and almost impossible to overdo.",
+          "imageRef": "Animated feature"
+        },
+        {
+          "title": "Caution Tape", "meta": "Industrial safety · 20th c.",
+          "blurb": "Bright yellow plus black gives the highest contrast ratio humans can perceive — codified into traffic signs, hard hats, and crime scenes worldwide.",
+          "imageRef": "Hazard signage"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Orpiment's name is honest in a way most pigments aren't — it tells you exactly what you're handling.",
+      "entries": [
+        {
+          "title": "\"Auripigmentum\"", "meta": "Latin · \"gold pigment\"",
+          "blurb": "The name medieval colourmen used — a literal compound of \"aurum\" (gold) and \"pigmentum\" (paint). The fool's gold of the palette.",
+          "imageRef": "Apothecary index"
+        },
+        {
+          "title": "\"King's Yellow\"", "meta": "Anglophone trade name",
+          "blurb": "A 19th-century rebrand to disguise its toxic reputation — colour merchants knew \"arsenic yellow\" wouldn't sell to bourgeois watercolourists.",
+          "imageRef": "Colour merchant catalogue"
+        },
+        {
+          "title": "\"Zarnikh\"", "meta": "Persian · root of \"arsenic\"",
+          "blurb": "The Persian word for orpiment travelled through Arabic and Greek into English as \"arsenic\" — the colour's chemistry hidden in the chemical's name.",
+          "imageRef": "Trade-route lexicon"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Yellow is the colour cultures argue about — joy or cowardice, divinity or betrayal, depending on which side of the world you ask.",
+      "entries": [
+        {
+          "title": "The Sun God", "meta": "Egypt, Mesoamerica, Japan",
+          "blurb": "Solar deities across nearly every ancient pantheon wear yellow — Ra, Huitzilopochtli, Amaterasu — the colour of life giving and life destroying.",
+          "imageRef": "Solar iconography"
+        },
+        {
+          "title": "Judas in Yellow", "meta": "Medieval European art",
+          "blurb": "By the late Middle Ages painters were trained to mark Judas with a yellow robe — the colour weaponised into a sign of betrayal and exclusion.",
+          "imageRef": "Passion altarpiece"
+        },
+        {
+          "title": "Yellow Ribbon", "meta": "American homecoming · 1973",
+          "blurb": "After the song \"Tie a Yellow Ribbon\" hit the charts, yellow became the colour of waiting — tied around oak trees during hostage crises and deployments.",
+          "imageRef": "Civic symbol"
+        }
+      ]
+    }
+  ]
+}

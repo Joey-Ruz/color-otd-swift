@@ -1,0 +1,153 @@
+{
+  "id": "lead-white",
+  "name": "Lead White",
+  "hex": "#F3F1E9",
+  "onColor": "#2A2823",
+  "date": "Saturday, 16 May 2026",
+  "dateShort": "May 16",
+  "poem": "A soft, warm, deceptive white — the white of cathedral plaster, the powdered face of every queen, and the most quietly toxic colour ever loved.",
+  "recipe": {
+    "note": "A soft white carrying the faintest warm, creamy tint.",
+    "mix": [
+      { "name": "White", "hex": "#F7F5EE", "parts": 12 },
+      { "name": "Yellow ochre", "hex": "#C58A3A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Lead white was the only effective white available to oil painters for two thousand years — and arguably the single most important colour in the history of Western painting.",
+      "entries": [
+        {
+          "title": "Vermeer's Pearl", "meta": "Johannes Vermeer · 1665",
+          "blurb": "The famous pearl is built up entirely from lead-white highlights — Vermeer's signature trick of suggesting depth with two perfectly placed dabs of opaque white.",
+          "imageRef": "Dutch Golden Age oil"
+        },
+        {
+          "title": "Caravaggio's Flesh", "meta": "Caravaggio · 1600s",
+          "blurb": "The luminous skin of Caravaggio's figures is built layer by layer in lead white over a dark ground — the pigment's slight warmth makes flesh look lit from within.",
+          "imageRef": "Baroque oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Bild-Ottavio_Leoni%2C_Caravaggio.jpg",
+          "imageCredit": "Ottavio Leoni · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Caravaggio"
+        },
+        {
+          "title": "Rembrandt's Impasto", "meta": "Rembrandt van Rijn · 17th c.",
+          "blurb": "Rembrandt's thick impasto highlights — the spotlit eye, the gold chain — depend on lead white's particular weight and texture, which no replacement quite matches.",
+          "imageRef": "Dutch Golden Age oil"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "For two and a half thousand years, lead white was the pigment of pale skin — applied directly to the face in pursuit of an ideal that destroyed the faces wearing it.",
+      "entries": [
+        {
+          "title": "Geisha Makeup", "meta": "Edo period Japan · 17th c. on",
+          "blurb": "The white-painted geisha face was lead white until the early 20th century — performers showed clear signs of lead poisoning by their thirties.",
+          "imageRef": "Performance makeup",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Geiko_Kimiha.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Geisha"
+        },
+        {
+          "title": "Elizabethan Court", "meta": "England · 1558–1603",
+          "blurb": "Elizabeth I's signature \"Mask of Youth\" was Venetian ceruse — a paste of lead white and vinegar — applied so thickly her face was reportedly permanently scarred underneath.",
+          "imageRef": "Court portraiture"
+        },
+        {
+          "title": "Victorian Lily Skin", "meta": "British and American · 1840s–1900s",
+          "blurb": "The Victorian ideal of pale, flawless skin sold millions of face powders containing lead white — banned in cosmetics in the U.S. only in 1938.",
+          "imageRef": "Victorian beauty ad"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Lead is a soft, silver metal that turns to white powder slowly in vinegar and air — a chemistry humans have exploited since the Bronze Age.",
+      "entries": [
+        {
+          "title": "Galena Ore", "meta": "Lead sulfide · PbS",
+          "blurb": "The black, glassy ore that is the world's main source of lead — found in nearly every mining region and processed for both its lead and the small amount of silver it contains.",
+          "imageRef": "Mineral specimen",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg/1280px-Galena_-_Huallanca%2C_Bologesi%2C_Ancash%2C_Peru.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Galena"
+        },
+        {
+          "title": "Salt Flats", "meta": "Bonneville, Utah",
+          "blurb": "The exact warm-white of lead-white pigment is the colour of large salt flats at midday — a flatness so complete it confuses the eye's depth perception.",
+          "imageRef": "Geological landscape"
+        },
+        {
+          "title": "Bleached Coral", "meta": "Great Barrier Reef · ongoing",
+          "blurb": "When stressed coral expels its symbiotic algae, what's left is the white calcium carbonate skeleton — a lead-white-adjacent colour that signals dying ecosystems.",
+          "imageRef": "Bleached reef"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Lead white's quiet exit from modern life — replaced by titanium white in 1920s and banned in cosmetics by mid-century — is one of the great unsung public-health victories.",
+      "entries": [
+        {
+          "title": "Picasso's Complaint", "meta": "Pablo Picasso · attributed",
+          "blurb": "Picasso was reportedly horrified when titanium white replaced lead white in his usual paints — \"it's no longer white, it's nothing\" — the new pigment lacked lead's warmth.",
+          "imageRef": "Modern artist interview"
+        },
+        {
+          "title": "Banned 1978", "meta": "U.S. Consumer Product Safety Commission",
+          "blurb": "The U.S. banned lead-based house paint in 1978 — long after every other rich country, and long enough for several generations of children to be poisoned in their bedrooms.",
+          "imageRef": "Regulatory notice"
+        },
+        {
+          "title": "Conservation Headache", "meta": "Modern conservation labs",
+          "blurb": "Every museum's old-master painting has lead white in it — conservators wear masks and gloves to handle any surface that might be flaking. The risk is permanent.",
+          "imageRef": "Conservation studio"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Lead white's names trace its slow migration from chemistry to symbolism — from \"corrosion of lead\" to \"the white of Saint John.\"",
+      "entries": [
+        {
+          "title": "\"Cerussa\"", "meta": "Latin · lead carbonate",
+          "blurb": "The Roman name — \"cerussa\" simply meant the powdered white that formed on lead exposed to vinegar fumes. Roman colourmen made it in clay pots stacked in dung-heaps.",
+          "imageRef": "Roman cosmetic kit"
+        },
+        {
+          "title": "\"Bianco di San Giovanni\"", "meta": "Italian Renaissance · 15th c.",
+          "blurb": "\"White of Saint John\" — an alternative name from Florence, perhaps for the white linen St. John the Baptist wore. The pigment took on the saint's reputation for purity.",
+          "imageRef": "Renaissance pigment treatise"
+        },
+        {
+          "title": "\"White Lead\"", "meta": "Anglophone common name · 18th c. on",
+          "blurb": "When the colour merchant trade industrialised, the polite Latin names dropped away. \"White lead\" said what it was, and what was wrong with it, in two syllables.",
+          "imageRef": "Pigment label"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Lead white is the colour of every culture's fantasy of purity — and the chemistry of every culture's quiet poisoning by that fantasy.",
+      "entries": [
+        {
+          "title": "Purity", "meta": "Wedding dress · bridal iconography",
+          "blurb": "The white wedding dress only became standard after Queen Victoria wore one in 1840 — and the bridal industry has been selling lead-white associations ever since.",
+          "imageRef": "Wedding portrait"
+        },
+        {
+          "title": "Beauty's Price", "meta": "Cosmetic medical history",
+          "blurb": "Cosmetic lead poisoning was an open secret for centuries — physicians described it as \"the disease of beautiful women,\" and prescribed more lead-white powder to mask the symptoms.",
+          "imageRef": "Medical illustration"
+        },
+        {
+          "title": "Cleanliness", "meta": "Modernist architecture · 1920s",
+          "blurb": "Le Corbusier and the modernists demanded white walls for hygiene — a moral aesthetic descended directly from the lead-white interiors of the previous century.",
+          "imageRef": "Modernist house"
+        }
+      ]
+    }
+  ]
+}

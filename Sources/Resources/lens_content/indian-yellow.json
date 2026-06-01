@@ -1,0 +1,151 @@
+{
+  "id": "indian-yellow",
+  "name": "Indian Yellow",
+  "hex": "#E3A857",
+  "onColor": "#2E1F08",
+  "date": "Tuesday, 19 May 2026",
+  "dateShort": "May 19",
+  "poem": "A glowing amber yellow shipped in dirty balls from Bengal — whose source nobody in Europe could explain, until the chemists figured out it was cow urine.",
+  "recipe": {
+    "note": "A warm amber yellow, golden and slightly orange.",
+    "mix": [
+      { "name": "Cadmium yellow", "hex": "#F2C200", "parts": 5 },
+      { "name": "Orange", "hex": "#E8821A", "parts": 2 },
+      { "name": "Burnt sienna", "hex": "#8A4B2F", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "A transparent golden yellow with extraordinary glowing properties — the favourite of every painter who needed sunset light.",
+      "entries": [
+        {
+          "title": "Rain, Steam and Speed", "meta": "J. M. W. Turner · 1844",
+          "blurb": "The glowing yellow steam of Turner's locomotive is Indian yellow, glazed thin over white — a colour Turner stockpiled by the pound and used compulsively.",
+          "imageRef": "Romantic oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg/1280px-Turner_-_Rain%2C_Steam_and_Speed_-_National_Gallery_file.jpg",
+          "imageCredit": "National Gallery London · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Rain,_Steam_and_Speed_%E2%80%93_The_Great_Western_Railway"
+        },
+        {
+          "title": "Rajasthani Miniatures", "meta": "Rajput courts · 16th–19th c.",
+          "blurb": "The pigment originated in India, where it had been used for centuries before European traders noticed — for the gold of palace domes and saffron robes.",
+          "imageRef": "Court painting"
+        },
+        {
+          "title": "Vermeer's Studio Window", "meta": "Johannes Vermeer · c. 1665",
+          "blurb": "The honey-yellow light streaming through Vermeer's leaded windows is often Indian yellow over lead-white — the colour of Delft in late afternoon.",
+          "imageRef": "Dutch Golden Age oil"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "The colour of celebration and renunciation, depending on which side of the world is wearing it.",
+      "entries": [
+        {
+          "title": "The Sikh Turban", "meta": "Khalsa tradition · since 1699",
+          "blurb": "The kesari (saffron) turban worn by initiated Sikhs is exactly the warm Indian yellow — a colour of sacrifice and willingness to die for the faith.",
+          "imageRef": "Religious garment"
+        },
+        {
+          "title": "The Saree", "meta": "Indian women's traditional dress",
+          "blurb": "Mustard and amber Indian-yellow sarees — particularly in cotton — were the everyday dress of much of rural India, and remain prized for their warmth on dark skin.",
+          "imageRef": "Cotton handloom"
+        },
+        {
+          "title": "Buddhist Monastic Robes", "meta": "Theravada tradition",
+          "blurb": "Monk's robes are dyed with turmeric and saffron — a yellow close to Indian yellow, deliberately worn to make the wearer humble, visible, accountable.",
+          "imageRef": "Religious garment"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "The pigment's source was an open secret in India and an unsolved mystery in Europe for over a century.",
+      "entries": [
+        {
+          "title": "Mango-Fed Cows", "meta": "Bihar, India · until 1908",
+          "blurb": "The pigment was concentrated from the urine of cows fed exclusively on mango leaves and water — a diet that made the animals sickly and the pigment phosphorescent.",
+          "imageRef": "Cattle and mango grove",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/Indisch-Gelb.jpg",
+          "imageCredit": "Wikimedia · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Indian_yellow"
+        },
+        {
+          "title": "The Marigold", "meta": "Tagetes erecta",
+          "blurb": "The same Indian yellow appears in marigold flowers, strung by the kilometre into garlands for temples and weddings — a colour of welcome.",
+          "imageRef": "Temple offering"
+        },
+        {
+          "title": "The Golden Hour", "meta": "Atmospheric light · pre-sunset",
+          "blurb": "The exact warm gold of the half hour before sunset — every photographer's favourite colour, exactly the hue Turner was chasing with his Indian-yellow brushes.",
+          "imageRef": "Late afternoon light"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "After India's animal-welfare laws made true Indian yellow extinct, the colour name carried on — attached to chemistry it never knew.",
+      "entries": [
+        {
+          "title": "The New York Cab", "meta": "American Yellow Cab Co. · since 1907",
+          "blurb": "John Hertz chose taxi-cab yellow because a University of Chicago study said it was the most visible colour from a distance — a synthetic Indian yellow, mass produced.",
+          "imageRef": "Urban transit"
+        },
+        {
+          "title": "Yellow Submarine", "meta": "The Beatles · 1968",
+          "blurb": "The animated Beatles film's signature yellow is closer to Indian yellow than to lemon — a deliberate choice for warmth and psychedelic resonance.",
+          "imageRef": "Animated feature"
+        },
+        {
+          "title": "Coldplay's \"Yellow\"", "meta": "Coldplay · 2000",
+          "blurb": "Chris Martin says he wrote the song under a yellow streetlight outside a studio in Wales — the colour came first, the lyric followed.",
+          "imageRef": "Pop song single"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Like many pigments shipped through colonial trade, Indian yellow's names tell the story of who was selling it and who was buying.",
+      "entries": [
+        {
+          "title": "\"Peori\"", "meta": "Hindi · पीयरी",
+          "blurb": "The original Indian name — simply meaning \"yellow.\" The pigment was indistinguishable from the colour, in everyday Bihar speech.",
+          "imageRef": "Hindi script"
+        },
+        {
+          "title": "\"Purée\"", "meta": "Anglo-Indian trade name",
+          "blurb": "The dirty yellow balls that arrived in London colour shops were called \"purée\" — a French-sounding euphemism for what was, factually, dehydrated cow urine.",
+          "imageRef": "Colour-merchant trade card"
+        },
+        {
+          "title": "\"Banned, 1908\"", "meta": "British India agriculture regulation",
+          "blurb": "Animal-cruelty laws ended the trade — the cows were dying. The pigment vanished from the market within five years, replaced by synthetic azo dyes.",
+          "imageRef": "Colonial gazette"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Indian yellow's cultural weight outlived its chemistry — the colour kept its meanings even after its source disappeared.",
+      "entries": [
+        {
+          "title": "Sannyasa", "meta": "Hindu renunciation",
+          "blurb": "The saffron-yellow robe of the Hindu renunciant — and the same yellow of the rising sun, marking the colour of a new beginning, every day.",
+          "imageRef": "Sadhu's robe"
+        },
+        {
+          "title": "Solar Sovereignty", "meta": "Mughal court iconography",
+          "blurb": "Mughal emperors had themselves painted with golden haloes in Indian yellow — borrowing solar imagery from the Hindu tradition they ruled over.",
+          "imageRef": "Mughal portrait"
+        },
+        {
+          "title": "Joy", "meta": "Cross-cultural colour reading",
+          "blurb": "Yellow is the most cross-culturally consistent colour for joy — Western, Indian, Chinese, African colour studies all return roughly the same answer.",
+          "imageRef": "Colour-emotion chart"
+        }
+      ]
+    }
+  ]
+}

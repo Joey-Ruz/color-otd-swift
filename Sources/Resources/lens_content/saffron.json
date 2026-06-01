@@ -1,0 +1,156 @@
+{
+  "id": "saffron",
+  "name": "Saffron",
+  "hex": "#E8A317",
+  "onColor": "#2E2105",
+  "date": "Thursday, 14 May 2026",
+  "dateShort": "May 14",
+  "poem": "The world's most expensive spice ground into a paint — three crocus stigmas per flower, seventy-five thousand flowers per pound, every harvest done by hand.",
+  "recipe": {
+    "note": "A warm orange-yellow, like late-afternoon light.",
+    "mix": [
+      { "name": "Cadmium yellow", "hex": "#F2C200", "parts": 4 },
+      { "name": "Orange", "hex": "#E8821A", "parts": 3 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Saffron's painters knew they were grinding the spice of kings — and the colour repaid them with a yellow no other dye-pigment could quite match.",
+      "entries": [
+        {
+          "title": "Persian Miniatures", "meta": "Safavid atelier · 16th c.",
+          "blurb": "The exact gold of Persian palace domes and Sufi haloes is saffron tincture applied over gold leaf — a colour that doubles as a small fortune spent on each illustration.",
+          "imageRef": "Persian miniature",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Govardhan._Jahangir_Visiting_the_Ascetic_Jadrup._ca._1616-20%2C_Musee_Guimet%2C_Paris.jpg",
+          "imageCredit": "Musée Guimet · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Mughal_painting"
+        },
+        {
+          "title": "Illuminated Manuscripts", "meta": "European monastic scriptoria · 13th c.",
+          "blurb": "Saffron yellow was used by monks as a cheap substitute for gold leaf in illuminated capitals — when the abbey couldn't afford bullion, the kitchen lent its spice.",
+          "imageRef": "Illuminated initial"
+        },
+        {
+          "title": "Saffron in Renaissance Frescoes", "meta": "Italian church walls · 14th–15th c.",
+          "blurb": "The yellow robes of angels and prophets in Giotto's Padua frescoes — and many other church cycles — are largely saffron, glazed thin over pale undercoats.",
+          "imageRef": "Fresco panel"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Saffron-dyed cloth is the most expensive textile per gram in human history — a colour worn by people the rest of society needed to recognise instantly.",
+      "entries": [
+        {
+          "title": "Buddhist Monks' Robes", "meta": "Theravada tradition",
+          "blurb": "Real saffron is too expensive for monastic dye — modern robes use turmeric or jackfruit wood. But the colour-name has carried forward for 2,500 years.",
+          "imageRef": "Monastic robe"
+        },
+        {
+          "title": "Irish Léinte", "meta": "Medieval Ireland · 12th–17th c.",
+          "blurb": "The saffron-dyed linen tunic was the badge of high Gaelic society — banned by the English in 1366 as a marker of \"Irish wildness,\" a fashion law that lasted 250 years.",
+          "imageRef": "Medieval Irish tunic"
+        },
+        {
+          "title": "Sikh Wedding Turbans", "meta": "Punjabi marriage rite",
+          "blurb": "Sikh grooms wear a kesari (saffron) turban for the wedding ceremony — the colour signals both sacred commitment and willingness to defend the bride for life.",
+          "imageRef": "Sikh wedding attire",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Painting_of_Maharaja_Ranjit_Singh_at_the_Darbar_Sahib%2C_by_August_Schoefft%2C_ca.1840%27s%E2%80%931855_after_a_sketch_made_by_Schoefft_in_Amritsar_in_1841_%28post-varnish_removal%29.jpg",
+          "imageCredit": "Schoefft · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Sikh"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Saffron's source is one of the most agriculturally improbable success stories in history — a sterile autumn crocus that exists only because humans propagate it.",
+      "entries": [
+        {
+          "title": "Crocus sativus", "meta": "Autumn-flowering crocus",
+          "blurb": "The saffron crocus is a triploid hybrid — sterile, unable to set seed, propagated only by dividing its corms. Every plant alive today descends from a single original.",
+          "imageRef": "Crocus bloom",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Saffron_-_premium_spice.jpg/1280px-Saffron_-_premium_spice.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Saffron"
+        },
+        {
+          "title": "Hand-Picked Stigmas", "meta": "Iranian and Spanish harvests",
+          "blurb": "Each flower contains three red stigmas. They open at dawn and wilt within hours — every gram of saffron is the morning's labour of hundreds of hands.",
+          "imageRef": "Saffron harvest"
+        },
+        {
+          "title": "Late-Afternoon Sunlight", "meta": "Mediterranean light",
+          "blurb": "The exact warm gold of saffron is the colour of sun at five o'clock in October — a colour Mediterranean cultures have spent millennia trying to bottle.",
+          "imageRef": "Golden hour light"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Saffron's status as the world's most expensive spice has made it shorthand for luxury in modern food culture — and a frequent target of adulteration.",
+      "entries": [
+        {
+          "title": "Spanish Paella", "meta": "Valencia · since 18th c.",
+          "blurb": "The signature yellow of paella valenciana is genuine saffron — and the absence of it is the leading marker of a tourist trap. Real paella turns yellow halfway through cooking.",
+          "imageRef": "Iberian rice dish",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/01_Paella_Valenciana_original.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Paella"
+        },
+        {
+          "title": "The Saffron Revolution", "meta": "Myanmar protests · 2007",
+          "blurb": "Buddhist monks led mass protests against the military junta, draped in their saffron robes — the colour gave the uprising its name, then its martyrs.",
+          "imageRef": "Protest photography"
+        },
+        {
+          "title": "Adulterated Saffron", "meta": "Modern food fraud",
+          "blurb": "Saffron is among the most-faked foods in the world — cut with safflower, marigold, even dyed corn silk. Detection requires lab tests; price alone isn't a clue.",
+          "imageRef": "Spice market"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Saffron's name has crossed every major trade language and stayed remarkably consistent — when you're worth more than gold, your name travels intact.",
+      "entries": [
+        {
+          "title": "\"Za'farān\"", "meta": "Arabic · زَعْفَرَان",
+          "blurb": "The Arabic source of \"saffron\" — and probably of every European cognate. The word arrived in Spain with the Moors and spread north along the spice routes.",
+          "imageRef": "Arabic calligraphy"
+        },
+        {
+          "title": "\"Krokos\"", "meta": "Greek · κρόκος",
+          "blurb": "The Greek name for the flower, from a much older Mediterranean root — Pliny notes saffron's use as both spice and dye in Phoenician records before the Greeks took it on.",
+          "imageRef": "Classical text"
+        },
+        {
+          "title": "\"Saffron Walden\"", "meta": "Essex, England · medieval town",
+          "blurb": "An English market town named for its saffron fields — and home to a 14th-century industry rivalling Persia, before climate change and undercutting destroyed it.",
+          "imageRef": "Medieval town seal"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Saffron is one of the rare colours that carries the same broad meaning across every culture it touches — sacred, costly, joyful.",
+      "entries": [
+        {
+          "title": "Sacred Saffron", "meta": "Hindu and Buddhist iconography",
+          "blurb": "The colour of the sun, the colour of renunciation, the colour of every flame in every temple lamp — saffron is the spiritual colour of South and Southeast Asia.",
+          "imageRef": "Temple offering"
+        },
+        {
+          "title": "The Indian Flag", "meta": "Independent India · since 1947",
+          "blurb": "The top stripe of the tricolour is saffron — chosen to represent courage and sacrifice, and to honour the Hindu/Sikh/Buddhist traditions of the new republic.",
+          "imageRef": "National flag"
+        },
+        {
+          "title": "Wealth in Spice", "meta": "Mediterranean luxury commerce",
+          "blurb": "From Roman banquets to Tudor confectionery, serving saffron-dyed food was a public display of wealth — a kind of edible jewellery that signalled the host's reach.",
+          "imageRef": "Banquet illustration"
+        }
+      ]
+    }
+  ]
+}

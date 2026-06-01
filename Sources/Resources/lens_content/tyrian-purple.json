@@ -1,0 +1,151 @@
+{
+  "id": "tyrian-purple",
+  "name": "Tyrian Purple",
+  "hex": "#66023C",
+  "onColor": "#F2E4EC",
+  "date": "Tuesday, 26 May 2026",
+  "dateShort": "May 26",
+  "poem": "Wrung from the gland of a sea snail, ten thousand of them for a single hem — a colour so costly it became the law of kings.",
+  "recipe": {
+    "note": "A dark red-violet — crimson married to deep blue, then dimmed.",
+    "mix": [
+      { "name": "Carmine red", "hex": "#960018", "parts": 4 },
+      { "name": "Ultramarine blue", "hex": "#1B1F8A", "parts": 3 },
+      { "name": "Black", "hex": "#16161A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "The most expensive dye in the ancient world — worth more by weight than gold, and reserved by law for those who could afford to wear it.",
+      "entries": [
+        {
+          "title": "Justinian and His Court", "meta": "Mosaic · Basilica of San Vitale, Ravenna · c. 547",
+          "blurb": "The Emperor Justinian stands in Tyrian purple at the centre of the apse mosaic — a colour that doubles as a claim to divine right.",
+          "imageRef": "Byzantine mosaic"
+        },
+        {
+          "title": "The Codex Argenteus", "meta": "Gothic Gospels · 6th c.",
+          "blurb": "Silver and gold letters of a Wulfila-translated Bible written on vellum dyed Tyrian purple — text so precious the parchment had to match.",
+          "imageRef": "Illuminated manuscript"
+        },
+        {
+          "title": "Portrait of a Roman Woman", "meta": "Pompeii fresco · c. 50 AD",
+          "blurb": "The wife of a successful baker, painted in a purple-bordered stola — a stripe-width regulated by sumptuary law down to the finger.",
+          "imageRef": "Wall fresco"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Purple was less a colour than a credential — sumptuary laws across the ancient world spelled out who could wear which stripe.",
+      "entries": [
+        {
+          "title": "The Imperial Toga", "meta": "Toga picta · Imperial Rome",
+          "blurb": "A solid Tyrian purple toga embroidered with gold — worn only by triumphant generals, then only by emperors. Anyone else caught wearing it could be executed.",
+          "imageRef": "Roman ceremonial dress"
+        },
+        {
+          "title": "The Byzantine Loros", "meta": "Imperial regalia · 9th–15th c.",
+          "blurb": "A long jewelled scarf of purple silk, wrapped diagonally across the emperor's chest — the only article of clothing that needed no further explanation of rank.",
+          "imageRef": "Court vestment"
+        },
+        {
+          "title": "Cadbury Purple", "meta": "Trademark · Cadbury Ltd., 1914",
+          "blurb": "A specific shade of purple chosen in tribute to Queen Victoria, trademarked by Cadbury and ferociously defended in court for over a century.",
+          "imageRef": "Brand colour swatch",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Purple_Purpur_%28retouched%29.jpg",
+          "imageCredit": "Wikimedia · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Tyrian_purple"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Every drop of Tyrian purple was wrenched from a living animal — the dye's history is also a history of slaughter.",
+      "entries": [
+        {
+          "title": "The Murex Snail", "meta": "Bolinus brandaris",
+          "blurb": "The mucus from a single gland, exposed to air and sunlight, oxidises through yellow and green to deep purple. Ten thousand snails yielded one gram of dye.",
+          "imageRef": "Mediterranean sea snail",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Haustellum_brandaris_000.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Bolinus_brandaris"
+        },
+        {
+          "title": "The Shell Mounds of Tyre", "meta": "Lebanese coast · Phoenician era",
+          "blurb": "Millennia of broken murex shells piled into hills along the coast — archaeological evidence of an industry that crashed an entire species.",
+          "imageRef": "Archaeological midden"
+        },
+        {
+          "title": "The Purple Sea Urchin", "meta": "Strongylocentrotus purpuratus",
+          "blurb": "Unrelated to dye but glowing with the same Tyrian hue — pigment from the urchin's diet of algae, kept in its spines as both signal and armour.",
+          "imageRef": "Pacific tide pool"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "When the ancient dye finally died out, the colour itself kept its old meanings — power, scarcity, theatre.",
+      "entries": [
+        {
+          "title": "The Color Purple", "meta": "Alice Walker · 1982",
+          "blurb": "The novel's title points to a colour rarely seen by its narrator — wildflowers in a field, beauty God supposedly gets angry if we walk past unnoticed.",
+          "imageRef": "Pulitzer-winning novel"
+        },
+        {
+          "title": "Purple Rain", "meta": "Prince · 1984",
+          "blurb": "Prince's signature colour and signature record — a hue chosen for its associations with royalty, mysticism, and the bruised edge of pop.",
+          "imageRef": "Album sleeve"
+        },
+        {
+          "title": "The Purple Heart", "meta": "U.S. military decoration · 1932",
+          "blurb": "The oldest decoration still awarded — a small heart of purple enamel given to those wounded or killed in service, a colour chosen for its associations with sacrifice.",
+          "imageRef": "Military medal"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The colour's name is also a place — and an entire civilisation took its name from the colour.",
+      "entries": [
+        {
+          "title": "Tyre", "meta": "Phoenician city · modern Lebanon",
+          "blurb": "The ancient port that produced the finest grade — \"Tyrian purple\" was simply the city's main export, prized across the Mediterranean.",
+          "imageRef": "Ancient port"
+        },
+        {
+          "title": "\"Phoenicia\"", "meta": "Greek phoinikēs",
+          "blurb": "The Greeks called the murex-dyeing people \"phoinikēs\" — literally \"purple people.\" The civilisation took its identity from the colour it made.",
+          "imageRef": "Trade map"
+        },
+        {
+          "title": "\"Porphyra\"", "meta": "Greek · the original \"purple\"",
+          "blurb": "The Greek word for the murex snail and its dye — and the source of every modern European word for the colour, including \"purple\" itself.",
+          "imageRef": "Classical lexicon"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Across cultures the colour signals power, but the kind of power keeps shifting — emperor, bishop, pop star.",
+      "entries": [
+        {
+          "title": "\"Born in the Purple\"", "meta": "Porphyrogenitus · Byzantium",
+          "blurb": "An imperial child born in the purple-walled birthing chamber of the Boukoleon palace — a literal birth into the colour, securing the right to rule.",
+          "imageRef": "Byzantine palace"
+        },
+        {
+          "title": "The Bishop's Cassock", "meta": "Catholic Lenten vestment",
+          "blurb": "Bishops wear purple cassocks during Lent — a colour of penitence in Christian liturgy, drawing on its older associations with sovereignty held in restraint.",
+          "imageRef": "Liturgical garment"
+        },
+        {
+          "title": "Mourning Purple", "meta": "Thai royal funerals",
+          "blurb": "While Western mourning wears black, Thai widows historically wore purple — a colour reserved for those grieving the king or a close royal.",
+          "imageRef": "State funeral"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+# Tell GitHub Linguist what's "real" source vs. generated/vendored content,
+# so the repo language stats reflect Swift dominance.
+
+*.pbxproj          linguist-generated=true
+*.xcworkspacedata  linguist-generated=true
+*.ttf              linguist-vendored=true
+*.otf              linguist-vendored=true
+*.png              linguist-generated=true
+Sources/Resources/lens_content/*.json  linguist-detectable=false

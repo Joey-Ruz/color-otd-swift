@@ -1,0 +1,148 @@
+{
+  "id": "scheeles-green",
+  "name": "Scheele's Green",
+  "hex": "#3C7A3C",
+  "onColor": "#E8F0E5",
+  "date": "Thursday, 21 May 2026",
+  "dateShort": "May 21",
+  "poem": "A dazzling arsenic green that coloured wallpaper, dresses and sweets — and is rumoured to have slowly killed Napoleon in exile.",
+  "recipe": {
+    "note": "A strong leaf green, warmed slightly with yellow.",
+    "mix": [
+      { "name": "Green", "hex": "#1B7A4B", "parts": 6 },
+      { "name": "Cadmium yellow", "hex": "#F2C200", "parts": 2 },
+      { "name": "Black", "hex": "#16161A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "The first really brilliant green available to oil painters — and one that quietly poisoned everyone who handled it.",
+      "entries": [
+        {
+          "title": "The Café Terrace at Night", "meta": "Vincent van Gogh · 1888",
+          "blurb": "Van Gogh's bottle greens are largely copper-arsenite pigments — Scheele's green and its successors. The colour glowed; the painter's mental decline accelerated.",
+          "imageRef": "Post-Impressionist oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg/1280px-Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_%28Place_du_Forum%29_1888.jpg",
+          "imageCredit": "Kröller-Müller Museum · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Caf%C3%A9_Terrace_at_Night"
+        },
+        {
+          "title": "Cézanne's Still Lifes", "meta": "Paul Cézanne · 1890s",
+          "blurb": "The deep leaf greens of Cézanne's apples and pears were often Scheele's — by the time he switched to viridian, decades of skin contact had already happened.",
+          "imageRef": "Post-Impressionist still life"
+        },
+        {
+          "title": "Victorian Botanical Plates", "meta": "Curtis's Botanical Magazine · 1820s–60s",
+          "blurb": "Hand-coloured botanical illustrations almost universally used Scheele's green — the only pigment that could match real foliage. Colourists died young.",
+          "imageRef": "Hand-tinted lithograph"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "The most fashionable colour in the Victorian wardrobe — and a leading cause of mysterious deaths among the people who wore it.",
+      "entries": [
+        {
+          "title": "The Ballroom Gown", "meta": "London season · 1850s",
+          "blurb": "A Scheele's-green silk evening dress could shed enough arsenic dust over a single night to kill the wearer's dance partner. Coroners began to suspect.",
+          "imageRef": "Crinoline ballgown"
+        },
+        {
+          "title": "Artificial Flowers", "meta": "Milliners' workshop · 1860s",
+          "blurb": "Hat makers' assistants in London brushed arsenic green powder onto silk leaves all day. Reports describe pale girls vomiting green into the gutter outside.",
+          "imageRef": "Millinery trade"
+        },
+        {
+          "title": "Children's Toys", "meta": "Nursery items · Victorian era",
+          "blurb": "Wooden rocking horses, painted dolls, even children's books were finished in arsenic green — colour-fast, weather-proof, untested for toxicity in the mouth.",
+          "imageRef": "Nursery furniture"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Real leaves get their green from chlorophyll, not arsenic — but Scheele's green was made because chlorophyll fades and arsenic doesn't.",
+      "entries": [
+        {
+          "title": "Spring Foliage", "meta": "Temperate broadleaf forest",
+          "blurb": "The exact green of beech leaves in early May — fresh enough to look almost synthetic. Scheele was trying to bottle this, and he very nearly did.",
+          "imageRef": "New growth canopy"
+        },
+        {
+          "title": "Arsenic Ore", "meta": "Realgar / orpiment / arsenopyrite",
+          "blurb": "The mineral source — arsenic appears in nature as bright yellow and red ores. Reacting it with copper and acid produces Scheele's green.",
+          "imageRef": "Sulfide mineral"
+        },
+        {
+          "title": "Algae Blooms", "meta": "Cyanobacterial bloom · freshwater",
+          "blurb": "Modern algae blooms turn lakes the same vivid green as Scheele's pigment — and are often as toxic. Both kill quietly, by ingestion.",
+          "imageRef": "Eutrophicated lake"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Scheele's green is the rare pigment with its own murder mystery — and a contested cause of death for an emperor.",
+      "entries": [
+        {
+          "title": "Napoleon at Longwood", "meta": "St. Helena · 1815–21",
+          "blurb": "Napoleon's exile bedroom was papered in Scheele's-green wallpaper. Damp tropical air liberated arsenic vapour. His hair samples confirm: lethal levels.",
+          "imageRef": "Period interior"
+        },
+        {
+          "title": "The Killer Wallpaper", "meta": "British home decoration · 1850s–70s",
+          "blurb": "An estimated 100 million square feet of arsenic-green wallpaper hung in Victorian Britain. Children's bedrooms were a leading site of unexplained illness.",
+          "imageRef": "Patterned wallpaper"
+        },
+        {
+          "title": "\"Bitter Tasting Sweets\"", "meta": "Bradford humbugs incident · 1858",
+          "blurb": "A confectioner accidentally mixed Scheele's green into a batch of peppermint humbugs instead of sugar — twenty-one children died, fifty were severely poisoned.",
+          "imageRef": "Victorian sweets"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The pigment was named, like several others in the era, for the chemist who first synthesised it — Carl Wilhelm Scheele had a talent for discovering deadly things.",
+      "entries": [
+        {
+          "title": "Carl Wilhelm Scheele", "meta": "Swedish chemist · 1775",
+          "blurb": "Scheele discovered oxygen, chlorine, and seven other elements — and died at 43, probably from tasting his own discoveries. The green was an afterthought.",
+          "imageRef": "18th-century portrait"
+        },
+        {
+          "title": "\"Copper Arsenite\"", "meta": "CuHAsO₃",
+          "blurb": "The chemical name — produced by combining copper sulfate with sodium arsenite. A pale yellow-green powder until exposed to acid, which intensifies the colour.",
+          "imageRef": "Chemistry textbook"
+        },
+        {
+          "title": "\"Schweinfurt Green\"", "meta": "Improved variant · Bavaria, 1814",
+          "blurb": "A copper-arsenoacetate variant developed in Schweinfurt — brighter, more stable, even more toxic. Sold under both names interchangeably for a century.",
+          "imageRef": "Pigment label"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Scheele's green became the colour of progress made before its consequences were understood — the 19th century's perfect pigment for itself.",
+      "entries": [
+        {
+          "title": "Decadence", "meta": "Aesthetic Movement · 1880s",
+          "blurb": "Oscar Wilde reportedly furnished his lodgings in arsenic green — the colour came to symbolise late-Victorian decadence, beautiful and a little doomed.",
+          "imageRef": "Aesthetic interior"
+        },
+        {
+          "title": "The Gothic Revival", "meta": "Domestic interiors · mid-1800s",
+          "blurb": "Walls of Scheele's green made every gas-lit Gothic Revival parlour look like the inside of a forest at midnight — a colour for ghost stories.",
+          "imageRef": "Victorian parlour"
+        },
+        {
+          "title": "Death in Beauty", "meta": "Modern art-historical reading",
+          "blurb": "Scheele's green is the leading example of a recurring pigment story: a colour too lovely to refuse, even after the deaths start adding up.",
+          "imageRef": "Conservation lecture"
+        }
+      ]
+    }
+  ]
+}

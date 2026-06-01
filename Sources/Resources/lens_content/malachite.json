@@ -1,0 +1,150 @@
+{
+  "id": "malachite",
+  "name": "Malachite",
+  "hex": "#1B7A4B",
+  "onColor": "#E5F0E8",
+  "date": "Monday, 18 May 2026",
+  "dateShort": "May 18",
+  "poem": "A rich mineral green born when copper meets water and time — banded, polished, mined for the eyeshadow of pharaohs and the parlours of tsars.",
+  "recipe": {
+    "note": "A rich mineral green, cool and slightly bluish.",
+    "mix": [
+      { "name": "Green", "hex": "#1B7A4B", "parts": 6 },
+      { "name": "Cyan blue", "hex": "#1B9AA8", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Ground malachite gave Egyptian, Russian and Chinese painters their first stable, brilliant green — and the rock itself was carved into furniture for emperors.",
+      "entries": [
+        {
+          "title": "The Tomb of Nefertari", "meta": "Valley of the Queens · c. 1290 BC",
+          "blurb": "Nefertari's tomb walls are painted with crushed malachite for plant life and Hathor's headdress — the colour has stayed vivid for three thousand years.",
+          "imageRef": "Egyptian tomb painting",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Tomb_of_Nefertari_%2852785688763%29.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Tomb_of_Nefertari"
+        },
+        {
+          "title": "The Malachite Room", "meta": "Winter Palace, St. Petersburg · 1839",
+          "blurb": "Two metric tons of Ural malachite carved into panels and pillars by Nicholas I's court — a single room with more malachite than most museum collections.",
+          "imageRef": "Imperial interior"
+        },
+        {
+          "title": "Song Dynasty Landscapes", "meta": "Chinese ink and pigment · 10th–13th c.",
+          "blurb": "The green of distant mountains in Chinese blue-and-green landscape painting is malachite — ground fine, suspended in glue, painted in thin glazing layers.",
+          "imageRef": "Hanging scroll"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Malachite has rarely appeared in textiles — but its shaped, polished form has dominated jewellery and decorative dress for five millennia.",
+      "entries": [
+        {
+          "title": "Egyptian Eye Makeup", "meta": "Predynastic · c. 4000 BC",
+          "blurb": "Ground malachite was the green half of the Egyptian eye paint kit (alongside kohl) — applied with bone sticks, partly for beauty and partly to repel flies.",
+          "imageRef": "Cosmetic palette"
+        },
+        {
+          "title": "Russian Imperial Jewellery", "meta": "Fabergé and successors · 19th c.",
+          "blurb": "Fabergé carved Ural malachite into eggs, pen rests, and brooches — the stone's natural banding made every piece unique, a colour that imitates nothing.",
+          "imageRef": "Carved gemstone"
+        },
+        {
+          "title": "Art Deco Brooches", "meta": "Paris and New York · 1920s–30s",
+          "blurb": "Art Deco jewellers paired polished malachite cabochons with chrome and onyx — the saturated green reading as both ancient and machine-age modern at once.",
+          "imageRef": "Deco jewellery"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Malachite forms where copper-bearing rocks meet groundwater — slowly, layer by layer, in concentric green bands.",
+      "entries": [
+        {
+          "title": "Malachite Ore", "meta": "Copper carbonate hydroxide · Cu₂CO₃(OH)₂",
+          "blurb": "The mineral forms in caverns and fractures of weathered copper deposits — every cross-section reveals concentric banding, the geological equivalent of tree rings.",
+          "imageRef": "Mineral specimen",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Malachite%2C_Zaire.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Malachite"
+        },
+        {
+          "title": "The Ural Mountains", "meta": "Russian Federation",
+          "blurb": "The greatest malachite deposits ever found — boulders weighing tens of tons. The mines that supplied Catherine and Nicholas have been worked dry.",
+          "imageRef": "Mountain mine"
+        },
+        {
+          "title": "The Malachite Sunbird", "meta": "Nectarinia famosa",
+          "blurb": "An African sunbird whose males blaze the exact iridescent green-blue of polished malachite — coincidence, not pigment chemistry: the bird's colour comes from feather structure.",
+          "imageRef": "Highland songbird"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Malachite has stayed quietly iconic — a colour that pops up wherever cultures want to signal old wealth or natural luxury.",
+      "entries": [
+        {
+          "title": "The Crystal Healing Industry", "meta": "New Age commerce · 1970s onward",
+          "blurb": "Malachite is among the most-sold tumbled stones in the crystal trade — sold for \"protection\" and \"transformation,\" with no scientific basis but enduring appeal.",
+          "imageRef": "Tumbled crystal"
+        },
+        {
+          "title": "Tom Ford Malachite", "meta": "Tom Ford Beauty · 2010s eyeshadow",
+          "blurb": "The colour returned to its predynastic Egyptian role — premium eyeshadow palettes still feature \"Malachite\" as a benchmark green tone, often containing none of the mineral.",
+          "imageRef": "Cosmetic palette"
+        },
+        {
+          "title": "Cartier Panthère", "meta": "Cartier · since 1914",
+          "blurb": "The signature Cartier panther's eyes are set with cabochon malachite — a design detail Jeanne Toussaint introduced in the 1940s that has never been altered.",
+          "imageRef": "Maison jewellery"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The stone's name comes from a plant — the Greeks named the colour after a leaf, then forgot the leaf and kept the name.",
+      "entries": [
+        {
+          "title": "\"Malachē\"", "meta": "Greek · μαλάχη — mallow",
+          "blurb": "The leaves of the mallow plant are exactly the green of malachite. The Greeks named the stone for the leaf — the only common-knowledge match they had.",
+          "imageRef": "Botanical plate"
+        },
+        {
+          "title": "\"Molochites\"", "meta": "Pliny the Elder · 1st c. AD",
+          "blurb": "Pliny's Natural History records the stone under its Latinised name — already an export trade across the empire, mined in Sinai and Cyprus.",
+          "imageRef": "Classical text"
+        },
+        {
+          "title": "\"Mountain Green\"", "meta": "Chinese · shān lǜ (山绿)",
+          "blurb": "The Chinese name keeps the geological reality — the colour came from grinding stone, and the colour was the colour of distant mountains.",
+          "imageRef": "Chinese pigment manual"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Malachite's symbolism splits neatly between two roles: the protector and the transformer.",
+      "entries": [
+        {
+          "title": "The Eye of Horus", "meta": "Egyptian apotropaic amulet",
+          "blurb": "Powdered malachite outlined the eyes of mummies as well as the living — a literal third eye, painted on the wrapped face to see in the afterlife.",
+          "imageRef": "Funerary mask"
+        },
+        {
+          "title": "The Russian Soul", "meta": "Soviet and post-Soviet literature",
+          "blurb": "Malachite recurs in Pavel Bazhov's Ural folktales as the colour of the Mistress of the Copper Mountain — a Russian Persephone, both terrifying and generous.",
+          "imageRef": "Folk illustration"
+        },
+        {
+          "title": "Transformation", "meta": "Modern crystal lore",
+          "blurb": "Malachite's banded growth — copper meeting water, becoming carbonate, becoming green — made it the modern crystal community's symbol for change made visible.",
+          "imageRef": "Polished cabochon"
+        }
+      ]
+    }
+  ]
+}

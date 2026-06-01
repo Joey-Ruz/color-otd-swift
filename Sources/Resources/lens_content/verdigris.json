@@ -1,0 +1,151 @@
+{
+  "id": "verdigris",
+  "name": "Verdigris",
+  "hex": "#43B3AE",
+  "onColor": "#082423",
+  "date": "Saturday, 23 May 2026",
+  "dateShort": "May 23",
+  "poem": "The green bloom of corroding copper — unstable, luminous, forever threatening to eat the very painting it adorned.",
+  "recipe": {
+    "note": "A bright blue-green teal, equal parts green and cyan, lifted with white.",
+    "mix": [
+      { "name": "Green", "hex": "#1B7A4B", "parts": 4 },
+      { "name": "Cyan blue", "hex": "#1B9AA8", "parts": 4 },
+      { "name": "White", "hex": "#F3F1E9", "parts": 2 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "The brightest green available to Western painters for 1,500 years — and one that eats every layer of paint it touches.",
+      "entries": [
+        {
+          "title": "The Arnolfini Portrait", "meta": "Jan van Eyck · 1434",
+          "blurb": "Giovanna Cenami's gown is painted in glazed verdigris over lead-tin yellow — the green has stayed luminous for six centuries while the panel quietly corrodes.",
+          "imageRef": "Northern Renaissance oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Arnolfini_portrait_%281434%29.jpg/1280px-The_Arnolfini_portrait_%281434%29.jpg",
+          "imageCredit": "National Gallery London · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Arnolfini_Portrait"
+        },
+        {
+          "title": "Egyptian Wall Paintings", "meta": "New Kingdom · c. 1500 BC",
+          "blurb": "Tomb walls at Thebes are still vivid with copper-based greens — the pigment used to render papyrus marshes and the feathers of Ma'at.",
+          "imageRef": "Tomb wall painting"
+        },
+        {
+          "title": "Madame X", "meta": "John Singer Sargent · 1884",
+          "blurb": "The famously scandalous portrait's brown-black dress was once a deep verdigris green — Sargent overpainted it after the colour started to oxidise.",
+          "imageRef": "Belle Époque portrait"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Long before \"teal\" had a name, verdigris was the colour wealthy patrons asked for when they wanted depth — and could afford the maintenance.",
+      "entries": [
+        {
+          "title": "The Tudor Court Gown", "meta": "Henry VIII's court · 16th c.",
+          "blurb": "Verdigris-dyed velvet was the rarest greenwear of the Tudor period — sumptuary laws permitted it only to nobility and senior courtiers.",
+          "imageRef": "Court portraiture"
+        },
+        {
+          "title": "Bottle-Green Wool", "meta": "Victorian menswear · 19th c.",
+          "blurb": "Dark verdigris wool became the unofficial uniform of mid-century English country gentlemen — a colour deep enough to read as black at dusk.",
+          "imageRef": "Victorian frock coat"
+        },
+        {
+          "title": "Tiffany Blue", "meta": "Tiffany & Co. trademark · 1845",
+          "blurb": "The exact verdigris of an oxidised copper rooftop — Tiffany chose it because turquoise meant value in Victorian iconography, and the colour was unmistakable.",
+          "imageRef": "Luxury packaging"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Verdigris doesn't exist as a stable mineral — it's what copper does in the open air, slowly, over years.",
+      "entries": [
+        {
+          "title": "The Statue of Liberty", "meta": "Frédéric Bartholdi · 1886",
+          "blurb": "Originally a polished copper orange, the statue oxidised to verdigris within twenty years — the green skin now protects the copper underneath.",
+          "imageRef": "Monumental sculpture",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+        },
+        {
+          "title": "Tropical Lagoons", "meta": "Coral atoll waters",
+          "blurb": "The exact verdigris hue of shallow tropical water comes from sun reflecting off white sand through plankton-rich water — the colour of every postcard horizon.",
+          "imageRef": "Pacific atoll"
+        },
+        {
+          "title": "Patinated Bronze", "meta": "Ancient and modern statuary",
+          "blurb": "Verdigris on outdoor bronze is conservation gold — it stops further corrosion and looks reverent. Removing it accelerates the metal's decay.",
+          "imageRef": "Public sculpture"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "The colour reads as both luxury and time — it's why old money brands gravitate to it.",
+      "entries": [
+        {
+          "title": "The Tiffany Box", "meta": "Robin's-egg blue · since 1845",
+          "blurb": "Pantone licensed exclusively — the colour is so trademarked that even competitors mentioning \"Tiffany blue\" in marketing risks legal action.",
+          "imageRef": "Branded packaging"
+        },
+        {
+          "title": "The Mint Green NHS Wall", "meta": "Britain · post-war",
+          "blurb": "Hospital walls across the NHS were painted institutional verdigris — chosen for being calming, surgical, and proven to mask blood and rust.",
+          "imageRef": "Institutional paint"
+        },
+        {
+          "title": "Mid-Century Kitchens", "meta": "American suburbia · 1950s",
+          "blurb": "Verdigris appliances — refrigerators, ovens, mixers — were the height of post-war optimism. Every kitchen showroom was a wall of \"surf\" green.",
+          "imageRef": "Period appliance"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Verdigris is one of the few pigment names that's also a recipe — the word describes the chemistry.",
+      "entries": [
+        {
+          "title": "\"Vert-de-Grèce\"", "meta": "Old French · \"green of Greece\"",
+          "blurb": "Medieval European colourmen called it \"green of Greece\" — the best verdigris was made by Athenian artisans who exposed copper to wine vapour for months.",
+          "imageRef": "Medieval trade route"
+        },
+        {
+          "title": "\"Aerugo\"", "meta": "Latin · copper rust",
+          "blurb": "The Roman name was admirably plain — \"aerugo\" simply meant the corrosion of copper, no metaphors. Roman doctors prescribed it as eye medicine.",
+          "imageRef": "Classical pharmacopeia"
+        },
+        {
+          "title": "\"Patina\"", "meta": "Latin · patera",
+          "blurb": "The Romans called the green crust on their statues \"patina\" — from the small dish (patera) used in libations. The colour and the dish share the same oxide.",
+          "imageRef": "Ritual bronze"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Verdigris has always been ambiguous — both poison and pharmaceutical, decay and beauty, weathering and wealth.",
+      "entries": [
+        {
+          "title": "Time-Made-Beautiful", "meta": "European cathedral roofs",
+          "blurb": "Old churches were never built to look verdigris — they were built copper. But the colour came to mean \"old\" in the best sense: weathered, sacred, intact.",
+          "imageRef": "Gothic copper roof"
+        },
+        {
+          "title": "Poison Green", "meta": "Renaissance pharmacopeia",
+          "blurb": "Verdigris was prescribed for everything from warts to malaria — and was reliably toxic. Renaissance doctors didn't always distinguish between the two.",
+          "imageRef": "Apothecary jar"
+        },
+        {
+          "title": "The Green of Money", "meta": "U.S. currency · since 1862",
+          "blurb": "The American dollar's verdigris-green ink was chosen as a security feature — early counterfeiters couldn't reproduce the exact copper oxide hue with cheap dyes.",
+          "imageRef": "Treasury note"
+        }
+      ]
+    }
+  ]
+}

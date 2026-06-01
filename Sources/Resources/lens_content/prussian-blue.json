@@ -1,0 +1,193 @@
+{
+  "id": "prussian-blue",
+  "name": "Prussian Blue",
+  "hex": "#003153",
+  "onColor": "#EDE9DF",
+  "date": "Thursday, 28 May 2026",
+  "dateShort": "May 28",
+  "poem": "The first blue ever made by accident — a chemist reaching for red, and stumbling on the colour of the deep, the dusk, and the drawing board.",
+  "recipe": {
+    "note": "A very dark blue, deepened almost to black and cooled with a whisper of green.",
+    "mix": [
+      { "name": "Ultramarine blue", "hex": "#1B1F8A", "parts": 6 },
+      { "name": "Black", "hex": "#16161A", "parts": 2 },
+      { "name": "Viridian green", "hex": "#1B7A4B", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art",
+      "label": "Art History",
+      "glyph": "brush",
+      "intro": "A pigment cheap enough to flood the world's skies, oceans and sorrows. Within a century of its invention it had crossed every sea on Earth.",
+      "entries": [
+        {
+          "title": "The Great Wave off Kanagawa",
+          "meta": "Katsushika Hokusai · c. 1831",
+          "blurb": "Hokusai built the wave from imported Prussian blue — known in Japan as \"bero-ai.\" The new synthetic pigment held its hue where traditional indigo faded, letting the foam claw at a permanent sky.",
+          "imageRef": "Ukiyo-e woodblock print",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/1280px-Great_Wave_off_Kanagawa2.jpg",
+          "imageCredit": "Met Museum · PD",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Wave_off_Kanagawa2.jpg"
+        },
+        {
+          "title": "The Starry Night",
+          "meta": "Vincent van Gogh · 1889",
+          "blurb": "The roiling night of Saint-Rémy is carried by Prussian blue and cobalt, swirled wet-into-wet from the asylum window before dawn.",
+          "imageRef": "Post-Impressionist oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+          "imageCredit": "MoMA · PD",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+        },
+        {
+          "title": "The Old Guitarist",
+          "meta": "Pablo Picasso · 1903–04",
+          "blurb": "Picasso's Blue Period drowned its grief in this single cold pigment — poverty, hunger and isolation rendered almost monochrome.",
+          "imageRef": "Blue Period oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Old_guitarist_chicago.jpg/1280px-Old_guitarist_chicago.jpg",
+          "imageCredit": "Art Institute Chicago · PD",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Old_guitarist_chicago.jpg"
+        }
+      ]
+    },
+    {
+      "id": "fashion",
+      "label": "Fashion",
+      "glyph": "thread",
+      "intro": "Before it was a colour of leisure, blue was a colour of discipline — cut, pressed, and worn as authority.",
+      "entries": [
+        {
+          "title": "The Prussian Officer's Coat",
+          "meta": "18th-century military dress",
+          "blurb": "The deep uniform blue of the Prussian army lent the pigment its name and its bearing: severe, exact, unmistakable across a field.",
+          "imageRef": "Military uniform plate"
+        },
+        {
+          "title": "Bleu de Travail",
+          "meta": "French workwear · c. 1900",
+          "blurb": "The chore jacket dyed working bodies the colour of the sky's indifference — hard-wearing, humble, now endlessly revived on the runway.",
+          "imageRef": "Cotton drill chore coat"
+        },
+        {
+          "title": "The Navy Suit",
+          "meta": "Enduring tailoring",
+          "blurb": "No colour signals quiet authority like a dark navy — formal without the finality of black, the default uniform of trust.",
+          "imageRef": "Tailored suiting"
+        }
+      ]
+    },
+    {
+      "id": "nature",
+      "label": "Nature",
+      "glyph": "leaf",
+      "intro": "True blue is vanishingly rare in the living world. Most of what we call blue is a trick of structure, not pigment.",
+      "entries": [
+        {
+          "title": "The Indigo Bunting",
+          "meta": "Passerina cyanea",
+          "blurb": "The bird carries no blue pigment at all — microscopic feather structure scatters light, painting it sky-blue only when the sun agrees.",
+          "imageRef": "Songbird, breeding plumage",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_Bunting_by_Dan_Pancamo_4.jpg",
+          "imageCredit": "Dan Pancamo · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Indigo_bunting"
+        },
+        {
+          "title": "The Blue Hour",
+          "meta": "L'heure bleue",
+          "blurb": "The window after sunset when the sun lights only the upper atmosphere, draining the world to a single saturated, sourceless blue.",
+          "imageRef": "Twilight landscape",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/S%C3%A9_Catedral_de_Bragan%C3%A7a_-_Portugal_%283663183339%29.jpg/1280px-S%C3%A9_Catedral_de_Bragan%C3%A7a_-_Portugal_%283663183339%29.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Blue_hour"
+        },
+        {
+          "title": "The Bathyal Zone",
+          "meta": "200–2,000 m depth",
+          "blurb": "Red light dies first in seawater; blue travels deepest. Past a thousand metres, blue is the last colour, then none at all.",
+          "imageRef": "Deep ocean column"
+        }
+      ]
+    },
+    {
+      "id": "pop",
+      "label": "Pop Culture",
+      "glyph": "star",
+      "intro": "The pigment quietly built the modern world's documents — and, improbably, became a life-saving drug.",
+      "entries": [
+        {
+          "title": "The Blueprint",
+          "meta": "Cyanotype · Sir John Herschel, 1842",
+          "blurb": "Architecture and engineering were copied for a century in Prussian blue. The word \"blueprint\" outlived the chemistry that made it.",
+          "imageRef": "Architectural cyanotype"
+        },
+        {
+          "title": "Photographs of British Algae",
+          "meta": "Anna Atkins · 1843",
+          "blurb": "Often called the first book illustrated with photographs — ghostly white seaweed laid on fields of Prussian blue.",
+          "imageRef": "Cyanotype photogram",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Anna_Atkins_algae_cyanotype.jpg",
+          "imageCredit": "Anna Atkins · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Anna_Atkins"
+        },
+        {
+          "title": "Radiogardase",
+          "meta": "Medical antidote",
+          "blurb": "Pharmaceutical-grade Prussian blue binds thallium and radioactive cesium in the gut — the same molecule that colours a blueprint.",
+          "imageRef": "Pharmaceutical capsule"
+        }
+      ]
+    },
+    {
+      "id": "etymology",
+      "label": "Etymology",
+      "glyph": "quote",
+      "intro": "A colour named for an army, born from a botched batch of red dye in a Berlin laboratory.",
+      "entries": [
+        {
+          "title": "Berliner Blau",
+          "meta": "Berlin · c. 1706",
+          "blurb": "Colour-maker Johann Jacob Diesbach was attempting a red lake when contaminated potash turned his batch a brilliant, unexpected blue.",
+          "imageRef": "Period laboratory"
+        },
+        {
+          "title": "\"Preußisch Blau\"",
+          "meta": "For the Kingdom of Prussia",
+          "blurb": "The pigment took the name of the state whose military wore it — the first colour named after a nation rather than a place or a plant.",
+          "imageRef": "Heraldic plate"
+        },
+        {
+          "title": "\"Bero-ai\"",
+          "meta": "Japan · early 1800s",
+          "blurb": "Imported through Nagasaki, the foreign blue entered Japanese as a loanword — \"berorin ai,\" Berlin indigo — before transforming ukiyo-e.",
+          "imageRef": "Trade-era document"
+        }
+      ]
+    },
+    {
+      "id": "symbolism",
+      "label": "Symbolism",
+      "glyph": "eye",
+      "intro": "Across cultures the colour holds two opposite truths at once: distance and depth, sadness and trust.",
+      "entries": [
+        {
+          "title": "Feeling Blue",
+          "meta": "Melancholy",
+          "blurb": "The Western shorthand for sorrow. Picasso painted it; the blues sang it. A colour cool enough to stand in for grief itself.",
+          "imageRef": "Mood study"
+        },
+        {
+          "title": "The Unconscious",
+          "meta": "Depth & distance",
+          "blurb": "Blue recedes — the colour of horizons, dreams and the parts of the mind we cannot reach. We move \"into the blue.\"",
+          "imageRef": "Horizon study"
+        },
+        {
+          "title": "True Blue",
+          "meta": "Trust & constancy",
+          "blurb": "The same recession reads as steadiness: the loyal friend, the dependable institution, the colour chosen by banks and nations.",
+          "imageRef": "Symbolic study"
+        }
+      ]
+    }
+  ]
+}

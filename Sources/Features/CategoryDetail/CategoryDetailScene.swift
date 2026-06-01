@@ -79,7 +79,7 @@ extension CategoryDetail {
             VStack(spacing: 0) {
                 ForEach(Array(vm.lens.entries.enumerated()), id: \.element.id) { idx, entry in
                     VStack(alignment: .leading, spacing: 0) {
-                        StripePlaceholder(label: entry.imageRef, height: 232)
+                        EntryImage(entry: entry, height: 232)
                             .padding(.horizontal, Spacing.gutter)
 
                         HStack(alignment: .firstTextBaseline, spacing: 10) {

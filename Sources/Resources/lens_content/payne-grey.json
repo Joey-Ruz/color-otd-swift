@@ -1,0 +1,145 @@
+{
+  "id": "payne-grey",
+  "name": "Payne's Grey",
+  "hex": "#475663",
+  "onColor": "#E9ECEF",
+  "date": "Friday, 15 May 2026",
+  "dateShort": "May 15",
+  "poem": "A deep blue-grey invented by an 18th-century English watercolourist — never quite black, never quite blue, perfect for the gloom of an English sky.",
+  "recipe": {
+    "note": "A deep blue-grey — blue and black, never truly neutral.",
+    "mix": [
+      { "name": "Ultramarine blue", "hex": "#1B1F8A", "parts": 4 },
+      { "name": "Black", "hex": "#16161A", "parts": 3 },
+      { "name": "White", "hex": "#F3F1E9", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Named for William Payne, an obscure 18th-century English watercolourist whose grey became, against the odds, one of the most widely-used colours of the 20th century.",
+      "entries": [
+        {
+          "title": "Topographical Watercolours", "meta": "William Payne · 1780s–1820s",
+          "blurb": "Payne taught watercolour in Exeter and Plymouth, and used his self-mixed grey for atmospheric shadows in landscape washes. The colour outlasted his reputation by two centuries.",
+          "imageRef": "Watercolour landscape"
+        },
+        {
+          "title": "Turner's Storm Studies", "meta": "J. M. W. Turner · early 19th c.",
+          "blurb": "Turner used a grey almost identical to Payne's for the underwash of his Channel sea-pieces — a colour with enough blue to suggest sky reflected in dark water.",
+          "imageRef": "Watercolour study"
+        },
+        {
+          "title": "Architectural Renderings", "meta": "British architecture schools · 19th c.",
+          "blurb": "Payne's grey became the standard wash for architectural drawings — its slight blueness made shadows look cool and stone look cold, on every Victorian elevation.",
+          "imageRef": "Architectural drawing"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "A grey with enough blue in it to feel intentional — the colour of menswear that doesn't want to be quite as serious as charcoal.",
+      "entries": [
+        {
+          "title": "Victorian Half-Mourning", "meta": "Mid-19th c. British etiquette",
+          "blurb": "After a year of pure black, Victorian widows transitioned through grey and mauve before returning to colour — Payne's grey was the standard \"second-stage\" wash for ribbons and trim.",
+          "imageRef": "Mourning ensemble"
+        },
+        {
+          "title": "The Modern Business Suit", "meta": "Ongoing menswear staple",
+          "blurb": "The contemporary blue-grey suit — softer than charcoal, more formal than dove — is Payne's grey applied to wool. The colour suggests authority without aggression.",
+          "imageRef": "Tailored suit"
+        },
+        {
+          "title": "Industrial Chic", "meta": "Loft and warehouse aesthetic · 1990s on",
+          "blurb": "The reclaimed-steel colour palette that defined post-industrial interior design — exposed beams, cement floors, kitchen pendants — settled on Payne's grey as its baseline.",
+          "imageRef": "Interior design"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Payne's grey is the colour of weather — not weather happening, but weather about to happen.",
+      "entries": [
+        {
+          "title": "Storm Clouds", "meta": "Cumulonimbus base · cool light",
+          "blurb": "The underbelly of a storm cloud, lit from below by reflected ground light — exactly Payne's grey, with the same hidden warmth as the pigment's tiny white component.",
+          "imageRef": "Atmospheric photograph"
+        },
+        {
+          "title": "Slate", "meta": "Welsh and Cumbrian quarries",
+          "blurb": "Roofing slate from Welsh quarries weathers to the precise Payne's grey of every English village — a colour the pigment was probably trying to reproduce.",
+          "imageRef": "Quarried stone"
+        },
+        {
+          "title": "Wet Stone Walls", "meta": "Yorkshire Dales · post-rain",
+          "blurb": "The dry-stone walls of the English uplands, soaked by rain, deepen to Payne's grey — the exact colour William Payne mixed to render them in his teaching books.",
+          "imageRef": "Pastoral landscape"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Payne's grey has quietly become the default colour of professional rendering — it shows up wherever someone wants depth without commitment.",
+      "entries": [
+        {
+          "title": "Architectural Visualisation", "meta": "Digital rendering · 1990s on",
+          "blurb": "Architectural visualisation defaults to Payne's grey for the sky in unbuilt buildings — the colour reads as both cloudy and aspirational, never weather-specific.",
+          "imageRef": "Architectural render"
+        },
+        {
+          "title": "Sketch Artist's Standard", "meta": "Forensic illustration",
+          "blurb": "Courtroom and forensic sketch artists keep Payne's grey on their palette as a one-colour solution — eyes, hair, jacket all rendered in dilutions of the same wash.",
+          "imageRef": "Courtroom sketch"
+        },
+        {
+          "title": "Cinematography Grading", "meta": "Modern digital colour timing",
+          "blurb": "The blue-grey \"teal and orange\" look that dominated 2010s blockbusters owes its teal half to a digital cousin of Payne's grey — a colour producers find calming.",
+          "imageRef": "Film still"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Almost uniquely among pigments, Payne's grey is named for a person — and the person was barely famous in his own lifetime.",
+      "entries": [
+        {
+          "title": "William Payne", "meta": "English watercolourist · 1760–1830",
+          "blurb": "A drawing master in Exeter and Plymouth who taught aristocratic students. His teaching books were popular; his paintings were not. Only the grey survived.",
+          "imageRef": "Period portrait"
+        },
+        {
+          "title": "The Original Recipe", "meta": "Payne's instructional book · 1790s",
+          "blurb": "Payne's published recipe was Prussian blue + crimson lake + yellow ochre — a mix you can still get from any decent watercolour set. The brand-name grey came later.",
+          "imageRef": "Drawing manual"
+        },
+        {
+          "title": "The Brand Name", "meta": "Winsor & Newton · since 1832",
+          "blurb": "The London colourmen Winsor & Newton industrialised Payne's recipe in tube form — and \"Payne's Grey\" became a commercial pigment name that has outlived its referent.",
+          "imageRef": "Pigment tube"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Payne's grey carries one of the more precise emotional ranges of any colour — melancholy without despair, restraint without coldness.",
+      "entries": [
+        {
+          "title": "Melancholy", "meta": "Romantic landscape tradition",
+          "blurb": "The colour of the Romantic Sublime — Wordsworth's clouds, Friedrich's seascapes. A grey deep enough to mean weather but blue enough to mean longing.",
+          "imageRef": "Romantic landscape"
+        },
+        {
+          "title": "Industrial Age", "meta": "Post-Romantic shift",
+          "blurb": "After the Industrial Revolution, Payne's grey acquired a second meaning — the colour of smog, soot-stained brick, riveted steel. Romance turned to atmosphere.",
+          "imageRef": "Victorian industrial scene"
+        },
+        {
+          "title": "Transition", "meta": "Colour-theory neutral",
+          "blurb": "In contemporary colour theory, Payne's grey is taught as the model \"chromatic neutral\" — never just grey, always grey-and-something, the colour of conditional choices.",
+          "imageRef": "Colour theory plate"
+        }
+      ]
+    }
+  ]
+}

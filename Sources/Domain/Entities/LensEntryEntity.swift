@@ -12,6 +12,12 @@ struct LensEntryEntity: Hashable, Identifiable {
     let title: String
     /// Body prose — short essay paragraph.
     let blurb: String
-    /// Label used in StripePlaceholder, or eventually an asset/URL ref.
+    /// Label used in StripePlaceholder when no imageUrl is set.
     let imageRef: String
+    /// HTTPS URL to a hero image for this entry. Nil falls back to StripePlaceholder.
+    var imageUrl: String? = nil
+    /// Photo credit shown overlaid on the image, e.g. "Met Museum · CC0".
+    var imageCredit: String? = nil
+    /// Optional tap-through to the original source.
+    var imageSourceUrl: String? = nil
 }

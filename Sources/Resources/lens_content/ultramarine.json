@@ -1,0 +1,154 @@
+{
+  "id": "ultramarine",
+  "name": "Ultramarine",
+  "hex": "#1B1F8A",
+  "onColor": "#E7E7F4",
+  "date": "Sunday, 24 May 2026",
+  "dateShort": "May 24",
+  "poem": "Beyond the sea, from a single mountain in Afghanistan — lapis lazuli ground finer than gold and reserved for the robe of the Virgin.",
+  "recipe": {
+    "note": "A pure, saturated blue carrying a trace of violet.",
+    "mix": [
+      { "name": "Blue", "hex": "#1530C0", "parts": 6 },
+      { "name": "Violet", "hex": "#5218A0", "parts": 2 },
+      { "name": "Black", "hex": "#16161A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Until synthesis was achieved in 1826, ultramarine cost more than gold by weight — and Renaissance contracts specified its use in the same breath as gold leaf.",
+      "entries": [
+        {
+          "title": "Girl with a Pearl Earring", "meta": "Johannes Vermeer · c. 1665",
+          "blurb": "Vermeer lavished costly ultramarine on the girl's turban — an extravagance that left him insolvent at death, his widow forced to pay his baker in paintings.",
+          "imageRef": "Dutch Golden Age oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/800px-1665_Girl_with_a_Pearl_Earring.jpg",
+          "imageCredit": "Mauritshuis · PD",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg"
+        },
+        {
+          "title": "The Wilton Diptych", "meta": "Unknown · c. 1395",
+          "blurb": "Eleven angels and the Virgin's mantle — all painted in a single uninterrupted field of ground lapis, the most lavish use of ultramarine in English medieval art.",
+          "imageRef": "Gothic devotional panel",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Wilton_Diptych.jpg/1280px-Wilton_Diptych.jpg",
+          "imageCredit": "National Gallery London · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Wilton_Diptych"
+        },
+        {
+          "title": "IKB 79", "meta": "Yves Klein · 1959",
+          "blurb": "Klein patented his own ultramarine — International Klein Blue — and spent the rest of his short life painting flat monochrome canvases with it.",
+          "imageRef": "Postwar monochrome"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "A colour that has never quite stopped meaning luxury — every century reinvents its claim to ultramarine.",
+      "entries": [
+        {
+          "title": "The Virgin's Mantle", "meta": "European devotional iconography",
+          "blurb": "By Church convention the Virgin Mary's robe had to be painted in ultramarine — the most precious pigment available, used to honour the highest subject.",
+          "imageRef": "Marian iconography"
+        },
+        {
+          "title": "Schiaparelli Shocking", "meta": "Elsa Schiaparelli · 1937",
+          "blurb": "Schiaparelli's signature shocking blue and pink reset luxury away from quiet good taste — a Surrealist's use of ultramarine as deliberate noise.",
+          "imageRef": "Haute couture"
+        },
+        {
+          "title": "Klein Blue Couture", "meta": "Yves Klein collaborations · 1960s",
+          "blurb": "Klein had naked models pressed against canvas in his ultramarine — and convinced Pierre Cardin to translate the colour onto evening wear.",
+          "imageRef": "Performance / runway"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "True ultramarine comes from one mountain — and the journey of the stone is half the story.",
+      "entries": [
+        {
+          "title": "Sar-i Sang Mine", "meta": "Badakhshan, Afghanistan",
+          "blurb": "The lapis lazuli mines have been worked continuously for seven thousand years — almost every drop of ultramarine in European art came from this single valley.",
+          "imageRef": "Mountain mine"
+        },
+        {
+          "title": "Lapis Lazuli", "meta": "Sodium aluminium silicate · with sulfur",
+          "blurb": "Deep blue lazurite veined with golden pyrite, formed when limestone is metamorphosed by sulfur-rich magma — a stone that already looks like a night sky.",
+          "imageRef": "Mineral specimen",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Lapis-lazuli_hg.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Lapis_lazuli"
+        },
+        {
+          "title": "Blue Morpho", "meta": "Morpho menelaus",
+          "blurb": "The wings carry no pigment at all — microscopic scales scatter light to produce one of the most saturated blues on Earth. Underneath, the wings are brown.",
+          "imageRef": "Neotropical butterfly"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Ultramarine never lost its association with the unreachable — even after synthesis made it cheap, it kept its mystique.",
+      "entries": [
+        {
+          "title": "YInMn Blue", "meta": "Mas Subramanian · Oregon State, 2009",
+          "blurb": "The first new inorganic blue discovered in two centuries — accidentally synthesised by chemistry students looking for something else entirely.",
+          "imageRef": "Modern pigment"
+        },
+        {
+          "title": "Crayola \"Ultra Blue\"", "meta": "Crayola Crayons · 1990",
+          "blurb": "Crayola's 1990 colour renaming controversy — \"Ultramarine\" was simplified to \"Ultra Blue\" alongside complaints that crayons were losing their poetry.",
+          "imageRef": "Children's art supplies"
+        },
+        {
+          "title": "Blue Period", "meta": "Tsutomu Yamada manga · 2017",
+          "blurb": "A Japanese manga and anime about a teenager who falls in love with painting after seeing a single ultramarine work — colour as an awakening.",
+          "imageRef": "Manga / anime"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The colour's name is a directional — it tells you where the pigment came from before it tells you what it looks like.",
+      "entries": [
+        {
+          "title": "\"Ultramarine\"", "meta": "Latin · ultra marinus — beyond the sea",
+          "blurb": "The literal meaning: the pigment came from beyond the sea — meaning Afghanistan, via Venice, by Mediterranean trade route. The name preserves the journey.",
+          "imageRef": "Medieval trade map"
+        },
+        {
+          "title": "\"Lazaward\"", "meta": "Persian · root of \"azure\"",
+          "blurb": "The Persian name for the lapis stone became Arabic \"al-lazaward,\" then Old French \"l'azur\" — the same word produces both \"lapis lazuli\" and \"azure.\"",
+          "imageRef": "Etymological tree"
+        },
+        {
+          "title": "\"French Ultramarine\"", "meta": "Synthetic · Jean-Baptiste Guimet, 1826",
+          "blurb": "The Société d'Encouragement offered 6,000 francs for an artificial ultramarine — Guimet won, but his pigment had to be marked \"French\" to distinguish it from the real thing.",
+          "imageRef": "19th-century pigment label"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Ultramarine has always been a colour of the highest things — heaven, sovereignty, the unreachable.",
+      "entries": [
+        {
+          "title": "The Marian Blue", "meta": "Christian iconography",
+          "blurb": "Painting the Virgin in ultramarine was a theological choice as well as a financial one — the colour of the heavens, used to crown the Queen of Heaven.",
+          "imageRef": "Madonna and Child"
+        },
+        {
+          "title": "The Cosmic Blue", "meta": "Astronomical depiction",
+          "blurb": "Pre-photographic astronomers reached for ultramarine when they painted the night sky — the only pigment dark enough to suggest depth without falling into black.",
+          "imageRef": "Celestial atlas"
+        },
+        {
+          "title": "Le Bleu du Ciel", "meta": "Georges Bataille · 1957",
+          "blurb": "Bataille's novel uses the colour of the sky as a synonym for vertigo — the unbearable, the beautiful, the colour of looking into nothing.",
+          "imageRef": "Modernist novel"
+        }
+      ]
+    }
+  ]
+}

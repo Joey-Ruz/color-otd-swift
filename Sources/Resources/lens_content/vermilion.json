@@ -1,0 +1,163 @@
+{
+  "id": "vermilion",
+  "name": "Vermilion",
+  "hex": "#E34234",
+  "onColor": "#2A0F0B",
+  "date": "Wednesday, 27 May 2026",
+  "dateShort": "May 27",
+  "poem": "Ground from cinnabar and mercury — the violent, brilliant red that lacquered emperors and slowly poisoned the alchemists who chased it.",
+  "recipe": {
+    "note": "A vivid, fiery red leaning warmly toward orange.",
+    "mix": [
+      { "name": "Scarlet red", "hex": "#C81D11", "parts": 6 },
+      { "name": "Orange", "hex": "#E8821A", "parts": 3 },
+      { "name": "White", "hex": "#F3F1E9", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Ground from cinnabar for over two thousand years — the brightest, most dangerous red available to painters until the 20th century.",
+      "entries": [
+        {
+          "title": "The Birth of Venus", "meta": "Sandro Botticelli · c. 1485",
+          "blurb": "Vermilion brushed onto Venus's lips and the folds of the cloak Zephyr blows — the warmest red Florentine workshops could produce.",
+          "imageRef": "Tempera on canvas",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/1280px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+          "imageCredit": "Uffizi · PD",
+          "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg"
+        },
+        {
+          "title": "Carved Cinnabar Lacquer", "meta": "Ming dynasty · 15th c.",
+          "blurb": "Layer upon layer of mercury-sulfide lacquer built up over months, then carved away to reveal landscapes and dragons in deep cinnabar relief.",
+          "imageRef": "Imperial lacquerware",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Lacquerware-roundbox-w-children.jpg",
+          "imageCredit": "Wikimedia · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Vermilion"
+        },
+        {
+          "title": "No. 14 (Reds)", "meta": "Mark Rothko · 1960",
+          "blurb": "Rothko reached repeatedly for the brightest reds — the same family of pigments Hokusai used — to stage colour as pure emotional event.",
+          "imageRef": "Abstract Expressionist oil"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "A colour reserved for those who could survive being looked at — clergy, royalty, the operatic.",
+      "entries": [
+        {
+          "title": "The Cardinal's Mozzetta", "meta": "Catholic ecclesiastical · 16th c.",
+          "blurb": "Cardinals wear the pigment of martyrdom — a deep vermilion silk cape worn over the rochet, signifying willingness to spill blood for the faith.",
+          "imageRef": "Ecclesiastical garment"
+        },
+        {
+          "title": "The Hermès Box", "meta": "Maison Hermès · since 1880s",
+          "blurb": "The exact orange-vermilion of the Hermès box was chosen out of necessity in WWII — the only colour cardboard the firm could source.",
+          "imageRef": "Luxury packaging"
+        },
+        {
+          "title": "The Chinese Wedding Qípáo", "meta": "Han Chinese tradition",
+          "blurb": "Red for joy, fertility, warding off evil — a Chinese bride changes into a vermilion-red gown to be carried across the threshold of her new life.",
+          "imageRef": "Bridal silk"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Cinnabar's deep red sits at the seam where geology turns into chemistry — beautiful, useful, and quietly venomous.",
+      "entries": [
+        {
+          "title": "Cinnabar Crystals", "meta": "Mercury sulfide · HgS",
+          "blurb": "The mineral source of vermilion — heavy, glassy red crystals found around volcanic vents. Grinding them releases mercury vapour.",
+          "imageRef": "Mineral specimen",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Cinnabarit_01.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Cinnabar"
+        },
+        {
+          "title": "The Northern Cardinal", "meta": "Cardinalis cardinalis",
+          "blurb": "The brilliant red comes from carotenoids in the bird's diet — what it eats, it wears. Captive birds fade to dusty pink within a season.",
+          "imageRef": "Songbird, breeding male",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Northern_cardinal"
+        },
+        {
+          "title": "The Strawberry Poison-Dart Frog", "meta": "Oophaga pumilio",
+          "blurb": "Aposematic colouration — the brighter the red, the more toxic the skin. Indigenous hunters tipped blowdarts with the frog's secretions.",
+          "imageRef": "Tropical amphibian",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Strawberry_poison_dart_frog_%2870539%29.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Oophaga_pumilio"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Vermilion is the colour brands reach for when they want to be seen first — and remembered.",
+      "entries": [
+        {
+          "title": "The London Phone Box", "meta": "K2 kiosk · Sir Giles Gilbert Scott, 1924",
+          "blurb": "Painted vermilion red to be spotted in fog — a design so iconic the boxes are now Grade II listed even as the phones inside go silent.",
+          "imageRef": "British telecom kiosk"
+        },
+        {
+          "title": "Coca-Cola Red", "meta": "Trademarked colour · since 1890s",
+          "blurb": "The exact red was chosen to match the barrels Coca-Cola syrup shipped in — vermilion-adjacent and now arguably the most replicated colour on Earth.",
+          "imageRef": "Brand identity",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Coca-Cola"
+        },
+        {
+          "title": "Holi Festival Powders", "meta": "Hindu spring rite",
+          "blurb": "Crowds throw clouds of vermilion gulal — once made from herbs, now mostly synthetic — turning streets and skin the colour of celebration.",
+          "imageRef": "Festival powders"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The colour's many names trace its travels — mercury, worms, alchemy, empire.",
+      "entries": [
+        {
+          "title": "\"Vermiculus\"", "meta": "Latin · \"little worm\"",
+          "blurb": "Originally named for a different red — kermes, made from crushed scale insects. The pigment from cinnabar inherited the name when worm-red faded from use.",
+          "imageRef": "Medieval bestiary"
+        },
+        {
+          "title": "\"Cinnabar\"", "meta": "Greek \"kinnabari\"",
+          "blurb": "The Greeks borrowed the word from Persian, where it described the same mineral. By the Roman period both pigment and name moved freely across the Mediterranean.",
+          "imageRef": "Trade-era documents"
+        },
+        {
+          "title": "\"Zhū\" (朱)", "meta": "Classical Chinese",
+          "blurb": "The character for vermilion also means \"crimson\" and \"the emperor's edit\" — imperial decrees were brushed in cinnabar ink as a mark of authority.",
+          "imageRef": "Imperial calligraphy"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "A colour that means power in almost every culture, but disagrees on what power feels like.",
+      "entries": [
+        {
+          "title": "The Imperial Seal", "meta": "Imperial China",
+          "blurb": "Only the emperor was permitted to mark documents in vermilion ink — a single red stroke that turned a draft into law.",
+          "imageRef": "Imperial chop"
+        },
+        {
+          "title": "The Torii Gate", "meta": "Shintō shrines · Japan",
+          "blurb": "Painted vermilion to keep evil spirits out and lacquered with mercury sulfide to protect the wood — the colour itself is a barrier.",
+          "imageRef": "Shrine entrance"
+        },
+        {
+          "title": "Sindoor", "meta": "Hindu marriage rite",
+          "blurb": "The line of vermilion powder a husband paints in his wife's hair parting — worn daily, renewed for life, a mark of being claimed by love.",
+          "imageRef": "Married woman's hair part"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "mummy-brown",
+  "name": "Mummy Brown",
+  "hex": "#6F4E37",
+  "onColor": "#EFE7DF",
+  "date": "Friday, 22 May 2026",
+  "dateShort": "May 22",
+  "poem": "A brown ground, quite literally, from ground Egyptian mummies — a pigment painters used for centuries before learning what it was.",
+  "recipe": {
+    "note": "A muted earth brown — warm red and ochre quieted with black.",
+    "mix": [
+      { "name": "Burnt sienna", "hex": "#8A4B2F", "parts": 5 },
+      { "name": "Yellow ochre", "hex": "#C58A3A", "parts": 3 },
+      { "name": "Black", "hex": "#16161A", "parts": 2 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "For three centuries painters reached for a tube of brown without asking too hard where it came from — and the answer turned out to be: people.",
+      "entries": [
+        {
+          "title": "Liberty Leading the People", "meta": "Eugène Delacroix · 1830",
+          "blurb": "The warm browns of Liberty's exposed torso are very likely mummy brown — Delacroix bought it by the tube from Paris colourmen without much curiosity.",
+          "imageRef": "Romantic oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg/1280px-La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg",
+          "imageCredit": "Louvre · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Liberty_Leading_the_People"
+        },
+        {
+          "title": "Pre-Raphaelite Landscapes", "meta": "Rossetti, Burne-Jones, et al. · 1850s–80s",
+          "blurb": "The Pre-Raphaelites used mummy brown for shadows in flesh and rich earth tones — until Burne-Jones discovered the source and held a funeral for his last tube.",
+          "imageRef": "Victorian narrative painting",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/46/William_Holman_Hunt_-_The_Hireling_Shepherd.jpg",
+          "imageCredit": "Manchester Art Gallery · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Pre-Raphaelite_Brotherhood"
+        },
+        {
+          "title": "Studio of Martin Drolling", "meta": "Paris · early 19th c.",
+          "blurb": "The French painter ground entire Egyptian mummies for pigment — including, by some accounts, the royal mummies of Persian kings. A barrel kept under the easel.",
+          "imageRef": "Romantic atelier"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Mummy brown is the colour Victorian respectability dressed in — earnest, modest, just gloomy enough.",
+      "entries": [
+        {
+          "title": "Victorian Mourning Dress", "meta": "Half-mourning · post-1840",
+          "blurb": "After the first year of pure black, Victorian widows transitioned through brown, grey and mauve — mummy brown was a popular intermediate shade.",
+          "imageRef": "Mourning gown"
+        },
+        {
+          "title": "Edwardian Walking Suits", "meta": "London · 1900s",
+          "blurb": "A muted brown tweed walking suit was the ultimate sensible daywear — country enough to be practical, dark enough to be appropriate at any hour.",
+          "imageRef": "Edwardian tailoring"
+        },
+        {
+          "title": "Trench Coats", "meta": "Burberry · 1914–18",
+          "blurb": "The original trench coat was developed in earth-brown gabardine for British officers — a colour that would blend with mud and not betray its wearer.",
+          "imageRef": "Military outerwear"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Brown is what the world tends toward — leaves, blood, soil, time. Mummy brown is just that arc accelerated.",
+      "entries": [
+        {
+          "title": "Egyptian Desert", "meta": "Western Desert · Sahara",
+          "blurb": "The colour of the desert that preserved every mummy ever ground for paint — a dry brown that has held human bodies intact for four thousand years.",
+          "imageRef": "Saharan landscape"
+        },
+        {
+          "title": "Peat Bog Bodies", "meta": "Northern European wetlands",
+          "blurb": "Bog acids tan corpses to the exact brown of the bog itself — Tollund Man, Lindow Man, the Yde Girl: each a perfect mummy in different chemistry.",
+          "imageRef": "Iron Age remains"
+        },
+        {
+          "title": "Bitumen Seeps", "meta": "La Brea, Rancho La Brea",
+          "blurb": "Naturally occurring asphalt — the same bitumen Egyptian embalmers may have used, and the same chemistry that preserves Pleistocene mammoths in California.",
+          "imageRef": "Tar pit"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "The pigment's macabre history makes it one of the most-cited examples of art's quietly unethical sourcing.",
+      "entries": [
+        {
+          "title": "Burne-Jones's Funeral", "meta": "Edward Burne-Jones · 1881",
+          "blurb": "When the Pre-Raphaelite painter learned what was actually in his tube of mummy brown, he buried the paint in his garden — with a small ceremony.",
+          "imageRef": "Victorian anecdote"
+        },
+        {
+          "title": "The Last Tubes", "meta": "C. Roberson & Co. · discontinued 1964",
+          "blurb": "The London colour merchants admitted to a journalist that they'd run out of mummies — and quietly stopped selling the colour after over a century.",
+          "imageRef": "Pigment trade card"
+        },
+        {
+          "title": "\"It's Just Brown\"", "meta": "Modern conservation",
+          "blurb": "Many paintings catalogued as containing mummy brown are now believed to contain ordinary umber — colourmen substituted freely as supply dwindled.",
+          "imageRef": "Conservation report"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The colour's name is also its recipe — a rare honest pigment, even when its history was not.",
+      "entries": [
+        {
+          "title": "\"Mumia\"", "meta": "Persian · bitumen",
+          "blurb": "The Persian word for the black, waxy embalming substance — Europeans assumed it was the source of every mummy's preservation, and ate it as medicine.",
+          "imageRef": "Medieval apothecary"
+        },
+        {
+          "title": "\"Caput Mortuum\"", "meta": "Latin · \"death's head\"",
+          "blurb": "An alchemical synonym — the dark brown residue left after distillation, named for its colour and its grim resemblance to the inside of a skull.",
+          "imageRef": "Alchemical treatise"
+        },
+        {
+          "title": "\"Egyptian Brown\"", "meta": "Colour merchant euphemism",
+          "blurb": "When \"mummy\" became too uncomfortable to print on tube labels, late-Victorian colourmen rebranded the same pigment as the more polite \"Egyptian Brown.\"",
+          "imageRef": "Pigment label"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "The colour holds the strangest possible weight — beauty and necropolis at once, ordinary by sight, indefensible by source.",
+      "entries": [
+        {
+          "title": "The Material of Time", "meta": "Memento mori tradition",
+          "blurb": "Mummy brown is literal memento mori — every brushstroke on a Victorian canvas was, sometimes, a brushstroke of someone dead for three thousand years.",
+          "imageRef": "Vanitas painting"
+        },
+        {
+          "title": "Egyptomania", "meta": "Europe · 1798–1850",
+          "blurb": "After Napoleon's Egyptian campaign, mummies became fashionable salon entertainment — unwrapping parties were attended like operas, and the leftover bodies went to colourmen.",
+          "imageRef": "Salon engraving"
+        },
+        {
+          "title": "The Ethics of the Tube", "meta": "Modern art-historical debate",
+          "blurb": "Mummy brown is the most-cited example in every conversation about art and provenance — a reminder that beautiful things sometimes have unbearable sources.",
+          "imageRef": "Conservation lecture"
+        }
+      ]
+    }
+  ]
+}

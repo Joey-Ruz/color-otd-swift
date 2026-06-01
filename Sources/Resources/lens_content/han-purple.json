@@ -1,0 +1,153 @@
+{
+  "id": "han-purple",
+  "name": "Han Purple",
+  "hex": "#5218A0",
+  "onColor": "#ECE5F4",
+  "date": "Sunday, 17 May 2026",
+  "dateShort": "May 17",
+  "poem": "An electric violet invented independently in Han China two thousand years ago — lost for centuries, rediscovered painted onto the Terracotta Army.",
+  "recipe": {
+    "note": "An electric violet — deep blue pushed toward red.",
+    "mix": [
+      { "name": "Blue", "hex": "#1530C0", "parts": 4 },
+      { "name": "Magenta", "hex": "#A01070", "parts": 3 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Han purple is one of the earliest synthetic pigments — invented in China two centuries BC, used for three hundred years, and then forgotten until the 1990s.",
+      "entries": [
+        {
+          "title": "The Terracotta Army", "meta": "Mausoleum of Qin Shi Huang · c. 210 BC",
+          "blurb": "The 8,000 warriors were originally painted in vivid colours including Han purple — most pigment flaked off within hours of excavation, but micro-traces remain on robes.",
+          "imageRef": "Funerary statuary",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/51714-Terracota-Army.jpg",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Terracotta_Army"
+        },
+        {
+          "title": "Han Pottery Figurines", "meta": "Western Han tomb goods · 2nd c. BC",
+          "blurb": "Painted tomb figurines from Han burials at Yangling carry traces of Han purple on robes and sashes — the pigment was a status marker for the dead.",
+          "imageRef": "Tomb ceramic",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Eastern_Han_Luoyang_Mural_of_Liubo_players.jpg",
+          "imageCredit": "Wikimedia · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Han_purple_and_Han_blue"
+        },
+        {
+          "title": "Bronze Ritual Vessels", "meta": "Han imperial bronzes",
+          "blurb": "Han purple appears as decorative pigment on bronze ritual vessels — applied over patinated bronze surfaces in geometric patterns, a colour the Han associated with the heavens.",
+          "imageRef": "Ritual bronze"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Han purple, like its Mediterranean cousin Tyrian, was a colour of imperial rank — but worn on different bodies in a parallel system on the other side of the world.",
+      "entries": [
+        {
+          "title": "Han Court Robes", "meta": "Eastern Han dynasty · 25–220 AD",
+          "blurb": "Court protocol used dyed and pigment-decorated silks — Han purple appeared in trim and embroidery on the robes of high officials, never the everyday wardrobe.",
+          "imageRef": "Court silk"
+        },
+        {
+          "title": "Buddhist Temple Banners", "meta": "Northern Wei to Tang · 5th–10th c.",
+          "blurb": "Painted silk banners hung in Buddhist temples used Han purple for the robes of deities — a colour associated with transcendence and incense smoke.",
+          "imageRef": "Temple textile"
+        },
+        {
+          "title": "Wedding Ceremonies", "meta": "Modern Chinese tradition",
+          "blurb": "The Chinese wedding palette retains Han purple in trim and accents — paired with red for joy, the violet representing constancy and night-deep affection.",
+          "imageRef": "Bridal silk"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Han purple doesn't exist in nature — it had to be invented. But the deep violet hues it captures occur in living things, just rarely.",
+      "entries": [
+        {
+          "title": "Wisteria", "meta": "Wisteria sinensis",
+          "blurb": "The native Chinese climbing vine produces racemes of exactly Han-purple flowers — a colour the Han potters may have been trying to imitate from their own gardens.",
+          "imageRef": "Cascading flower vine",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Chinesischer_Blauregen_Detail_Bl%C3%BCtentraube.JPG",
+          "imageCredit": "Wikimedia · CC BY-SA",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Wisteria_sinensis"
+        },
+        {
+          "title": "Amethyst", "meta": "Quartz · iron impurities",
+          "blurb": "The same chemistry — barium copper silicates — that produces Han purple synthetically is loosely related to the natural processes giving amethyst its violet hue.",
+          "imageRef": "Crystal cluster"
+        },
+        {
+          "title": "Twilight on a Mountain", "meta": "Chinese landscape painting subject",
+          "blurb": "The exact violet of mountains at the last moment of dusk is Han purple — a colour the Han may have invented precisely because they kept seeing it and couldn't reproduce it.",
+          "imageRef": "Crepuscular landscape"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Han purple's modern life began in 1992 — when a chemist at the British Museum identified it on a Han bronze and triggered a wave of scientific interest.",
+      "entries": [
+        {
+          "title": "Quantum Properties", "meta": "Stanford physics · 2006",
+          "blurb": "Researchers discovered Han purple's crystal structure exhibits a rare \"two-dimensional quantum state\" near absolute zero — a 2,200-year-old pigment with applications in physics.",
+          "imageRef": "Crystal lattice diagram"
+        },
+        {
+          "title": "Rediscovery", "meta": "Heinz Berke · 1992",
+          "blurb": "The pigment's chemistry was reverse-engineered by a Swiss chemist studying Han bronzes — and within a decade the colour was being re-synthesised for conservation work.",
+          "imageRef": "Conservation lab"
+        },
+        {
+          "title": "The Egyptian Cousin", "meta": "Comparative pigment study",
+          "blurb": "Han purple is chemically distinct but structurally similar to Egyptian Blue — both are calcium-copper silicates, both invented in the Bronze Age, neither aware of the other.",
+          "imageRef": "Pigment comparison"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Han purple's name is modern — assigned by scholars when they rediscovered it. The Han themselves had different words.",
+      "entries": [
+        {
+          "title": "\"Hàn Zǐ\"", "meta": "Modern Chinese · 漢紫",
+          "blurb": "Literally \"Han purple\" — the modern Chinese name, coined retrospectively after archaeological identification. The original Han term, if there was one, is lost.",
+          "imageRef": "Chinese characters"
+        },
+        {
+          "title": "\"Chinese Purple\"", "meta": "Western scientific literature",
+          "blurb": "The pigment's official scientific designation since 1992 — a placeholder Western name that distinguishes it from Egyptian Blue while acknowledging its origin.",
+          "imageRef": "Scientific paper"
+        },
+        {
+          "title": "BaCuSi₂O₆", "meta": "Chemical formula",
+          "blurb": "Barium copper disilicate — the formula for Han purple. It tells you everything modern science knows, and nothing about why the Han wanted to make it.",
+          "imageRef": "Chemistry textbook"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Han purple is one of those rare colours whose symbolism keeps changing — imperial, then forgotten, then a quantum-physics curiosity.",
+      "entries": [
+        {
+          "title": "Imperial Authority", "meta": "Han dynasty cosmology",
+          "blurb": "Purple was the colour of the pole star and the supreme deity in Han cosmology — a colour that placed the emperor at the centre of a stable celestial order.",
+          "imageRef": "Han astronomical chart"
+        },
+        {
+          "title": "Lost Knowledge", "meta": "Modern Chinese historical reading",
+          "blurb": "Han purple's disappearance has become a parable in modern Chinese culture — a sophisticated technology lost to the centuries, only recovered by accident.",
+          "imageRef": "Historical retrospective"
+        },
+        {
+          "title": "Quantum Mystery", "meta": "Contemporary science writing",
+          "blurb": "The pigment now appears in popular-science books as an example of how ancient technologies sometimes anticipate modern physics by accident — a colour with strange depth.",
+          "imageRef": "Popular science cover"
+        }
+      ]
+    }
+  ]
+}

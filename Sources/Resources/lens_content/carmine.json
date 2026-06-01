@@ -1,0 +1,153 @@
+{
+  "id": "carmine",
+  "name": "Carmine",
+  "hex": "#960018",
+  "onColor": "#F4E0E2",
+  "date": "Wednesday, 20 May 2026",
+  "dateShort": "May 20",
+  "poem": "Harvested from the cochineal insect of the cactus — a red so prized that Spain guarded its source as a state secret.",
+  "recipe": {
+    "note": "A deep, cool crimson red shaded with the faintest black.",
+    "mix": [
+      { "name": "Crimson", "hex": "#C00020", "parts": 7 },
+      { "name": "Black", "hex": "#16161A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "The deepest, coolest red available to European painters for three hundred years — and a colour that funded the Spanish Empire.",
+      "entries": [
+        {
+          "title": "The Family of Charles IV", "meta": "Francisco Goya · 1800",
+          "blurb": "The royal family's velvets and silks are painted in glazes of pure carmine — the same insect-derived pigment that filled the royal coffers shipping it from Mexico.",
+          "imageRef": "Spanish court portrait",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/La_familia_de_Carlos_IV.jpg",
+          "imageCredit": "Museo del Prado · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Charles_IV_of_Spain_and_His_Family"
+        },
+        {
+          "title": "Girl with a Red Hat", "meta": "Johannes Vermeer · c. 1665",
+          "blurb": "The hat's saturated red is built up in thin glazes of carmine over a vermilion underlayer — Vermeer's technique for a red that glows from within.",
+          "imageRef": "Dutch Golden Age oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Vermeer_-_Girl_with_a_Red_Hat.JPG",
+          "imageCredit": "National Gallery of Art DC · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Girl_with_a_Red_Hat"
+        },
+        {
+          "title": "Mexican Codices", "meta": "Pre-Columbian manuscripts",
+          "blurb": "Aztec painters used cochineal-derived carmine for thousands of years before European contact — a knowledge the conquistadors immediately weaponised.",
+          "imageRef": "Codex page"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "The most expensive red ever traded — and the colour of every garment that needed to mean authority or sex.",
+      "entries": [
+        {
+          "title": "The Cardinal's Cap", "meta": "Catholic ecclesiastical · 13th c. on",
+          "blurb": "Cardinal's red is by ancient tradition exactly the carmine of dried cochineal — a colour that said, in the medieval imagination, blood ready to be shed.",
+          "imageRef": "Liturgical cap"
+        },
+        {
+          "title": "The Red Sole", "meta": "Christian Louboutin · since 1992",
+          "blurb": "Louboutin painted his prototype's sole with red nail polish to make it pop — the carmine sole is now a trademark defended in courts on three continents.",
+          "imageRef": "Designer footwear"
+        },
+        {
+          "title": "Flamenco Costume", "meta": "Andalusian tradition",
+          "blurb": "The traje de flamenca's reds are intensified by the lining beneath — every twirl flashes carmine. The colour is older than the dance.",
+          "imageRef": "Traditional dress"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Carmine is built one tiny insect at a time — and the supply chain has barely changed in five centuries.",
+      "entries": [
+        {
+          "title": "The Cochineal Beetle", "meta": "Dactylopius coccus",
+          "blurb": "The females live on prickly pear cacti, feeding on the sap. Scraped off, dried, and crushed, 70,000 of them yield one pound of dye.",
+          "imageRef": "Scale insect",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cochineal_drawing.jpg",
+          "imageCredit": "Wikimedia · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Cochineal"
+        },
+        {
+          "title": "The Prickly Pear Cactus", "meta": "Opuntia ficus-indica",
+          "blurb": "Native to Mexico, deliberately exported worldwide to support the cochineal industry — every Mediterranean hillside with prickly pear is part of the dye trail.",
+          "imageRef": "Host plant"
+        },
+        {
+          "title": "The Red Rose", "meta": "Rosa gallica officinalis",
+          "blurb": "Carmine is the colour the Apothecary's Rose reaches for at full bloom — a coincidence the rose breeders of the 13th century enthusiastically exploited.",
+          "imageRef": "Heritage rose"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Carmine never went out of fashion — but its source quietly migrated from oil paintings to lipsticks and yogurt.",
+      "entries": [
+        {
+          "title": "E120", "meta": "Food additive · still in use",
+          "blurb": "The same cochineal-derived carmine that coloured Renaissance velvets now tints strawberry yogurt, red lollipops, and (until 2012) Starbucks frappuccinos.",
+          "imageRef": "Food packaging"
+        },
+        {
+          "title": "Lipstick", "meta": "Cosmetics industry · ongoing",
+          "blurb": "Carmine remains the preferred red pigment in premium lipstick — it stays brilliant on the lip and doesn't fade with sun exposure the way synthetics do.",
+          "imageRef": "Cosmetic palette"
+        },
+        {
+          "title": "Campbell's Soup Cans", "meta": "Andy Warhol · 1962",
+          "blurb": "The exact red of the Campbell's label is a synthetic carmine — chosen for its appetite-stimulating warmth, weaponised by Warhol into Pop Art's signature hue.",
+          "imageRef": "Pop Art screenprint"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "The colour's name carries the insect with it — and the insect carries the colour's history.",
+      "entries": [
+        {
+          "title": "\"Kermes\"", "meta": "Arabic · qirmiz",
+          "blurb": "The original Mediterranean red, made from a related scale insect — \"kermes\" gives us both \"carmine\" and \"crimson,\" same root, different shade.",
+          "imageRef": "Medieval lexicon"
+        },
+        {
+          "title": "\"Cochineal\"", "meta": "Spanish · cochinilla",
+          "blurb": "The Spanish word for the Mexican insect — a diminutive of \"pig\" (cochino), perhaps from the insect's shape, perhaps from the smell of the dye vat.",
+          "imageRef": "Colonial trade ledger"
+        },
+        {
+          "title": "\"Nocheztli\"", "meta": "Nahuatl · \"blood of the cactus\"",
+          "blurb": "The Aztec name for cochineal — a more accurate description than the colonial ones. The conquistadors learned the production but kept the colonial name.",
+          "imageRef": "Pre-Columbian manuscript"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Carmine is the colour blood is supposed to be — venous, not arterial — and it carries every cultural meaning blood does.",
+      "entries": [
+        {
+          "title": "Sacrifice", "meta": "Christian and pre-Christian iconography",
+          "blurb": "Carmine is the colour of the Crucifixion in Renaissance painting and the colour of the bull's blood in Mithraic mosaics — a colour religion finds hard to avoid.",
+          "imageRef": "Passion panel"
+        },
+        {
+          "title": "Romance", "meta": "Western romantic shorthand",
+          "blurb": "Valentine's Day, the red rose, the red dress — all carmine. The colour signals desire across cultures, with surprisingly little variation.",
+          "imageRef": "Valentine card"
+        },
+        {
+          "title": "Communism", "meta": "Soviet red · 1917 on",
+          "blurb": "The Bolshevik red was carmine before it was anything else — the same colour worn by cardinals, kings, and the working class flag of revolution.",
+          "imageRef": "Soviet poster"
+        }
+      ]
+    }
+  ]
+}

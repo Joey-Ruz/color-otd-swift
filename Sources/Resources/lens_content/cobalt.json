@@ -1,0 +1,148 @@
+{
+  "id": "cobalt",
+  "name": "Cobalt",
+  "hex": "#1B4FA0",
+  "onColor": "#E6ECF4",
+  "date": "Wednesday, 13 May 2026",
+  "dateShort": "May 13",
+  "poem": "A clean, medium-deep blue invented by alchemists chasing real ultramarine — a colour that made blue-and-white porcelain possible and now powers the batteries in every phone.",
+  "recipe": {
+    "note": "A clean medium blue, calm and slightly cool.",
+    "mix": [
+      { "name": "Blue", "hex": "#1530C0", "parts": 6 },
+      { "name": "White", "hex": "#F3F1E9", "parts": 1 },
+      { "name": "Black", "hex": "#16161A", "parts": 1 }
+    ]
+  },
+  "lenses": [
+    {
+      "id": "art", "label": "Art History", "glyph": "brush",
+      "intro": "Cobalt blue made one of the most globally recognisable art forms possible — and then, in oil paint, became the favourite blue of the Impressionists.",
+      "entries": [
+        {
+          "title": "Ming Blue and White", "meta": "Jingdezhen kilns · 14th c.",
+          "blurb": "The exact cobalt blue of Ming porcelain depended on imported Persian \"Mohammedan blue\" cobalt ore — refined into the colour that defines Chinese export ceramics.",
+          "imageRef": "Ming porcelain"
+        },
+        {
+          "title": "Delftware", "meta": "Dutch tin-glazed pottery · 17th c.",
+          "blurb": "Delft potters imitated Chinese blue and white using local cobalt — and built a colour that is now indistinguishable from \"Delft\" in any colour theory book.",
+          "imageRef": "Tin-glazed earthenware"
+        },
+        {
+          "title": "Monet's Water Lilies", "meta": "Claude Monet · 1900s–1920s",
+          "blurb": "The water in Monet's late lily ponds is built on cobalt blue — a pigment Monet specifically requested over ultramarine for its slightly cooler edge and its slow drying time.",
+          "imageRef": "Impressionist oil",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Claude_Monet_1899_Nadar_crop.jpg",
+          "imageCredit": "Nadar · PD",
+          "imageSourceUrl": "https://en.wikipedia.org/wiki/Claude_Monet"
+        }
+      ]
+    },
+    {
+      "id": "fashion", "label": "Fashion", "glyph": "thread",
+      "intro": "Cobalt is the blue brands reach for when they want intensity without the historical weight of ultramarine or the everydayness of navy.",
+      "entries": [
+        {
+          "title": "Royal Blue Evening Wear", "meta": "Ongoing formal staple",
+          "blurb": "\"Royal blue\" is essentially saturated cobalt — a colour designers reach for whenever they need a dress to look photographed rather than worn.",
+          "imageRef": "Formal gown"
+        },
+        {
+          "title": "Cobalt Glass Jewellery", "meta": "Bohemian glass · 19th c.",
+          "blurb": "Bohemian glassmakers refined cobalt-blue glass into beads, vases, and costume jewellery — affordable colour that mimicked sapphire well enough to pass at distance.",
+          "imageRef": "Pressed glass jewellery"
+        },
+        {
+          "title": "Blue Period Workwear", "meta": "Modern uniform palette",
+          "blurb": "From American police uniforms to flight-attendant suits, mid-tone cobalt has become the default colour of professional trust — neither command-black nor casual navy.",
+          "imageRef": "Workwear uniform"
+        }
+      ]
+    },
+    {
+      "id": "nature", "label": "Nature", "glyph": "leaf",
+      "intro": "Cobalt is one of those metals that gives folklore as much as chemistry — and the modern world's quiet dependence on it is a story still being written.",
+      "entries": [
+        {
+          "title": "Cobalt Ore", "meta": "Skutterudite, cobaltite · sulfide minerals",
+          "blurb": "Pinkish-grey ore historically considered worthless — German miners blamed the unhelpful rock on \"kobolds,\" mischievous mountain spirits. The element kept the name.",
+          "imageRef": "Sulfide ore specimen"
+        },
+        {
+          "title": "Blue Glass Beach", "meta": "Mediterranean tide line",
+          "blurb": "Sea-tumbled fragments of cobalt-blue glass wash up wherever boats have sunk for two centuries — beach-glass collectors prize them above all other colours.",
+          "imageRef": "Beach glass"
+        },
+        {
+          "title": "Cobalt-Blue Tarantula", "meta": "Cyriopagopus lividus",
+          "blurb": "A spider from Myanmar whose legs are an unmistakable cobalt — the colour comes from microscopic structures on the hairs, not pigment. One of nature's few true blues.",
+          "imageRef": "Tropical arachnid"
+        }
+      ]
+    },
+    {
+      "id": "pop", "label": "Pop Culture", "glyph": "star",
+      "intro": "Cobalt has become one of the most strategically important metals on Earth — every electric vehicle and laptop battery depends on it.",
+      "entries": [
+        {
+          "title": "Lithium-Ion Batteries", "meta": "Modern electronics · since 1991",
+          "blurb": "Every iPhone, electric car, and laptop battery contains cobalt — and roughly 70% of the world's supply comes from artisanal mines in the Democratic Republic of Congo.",
+          "imageRef": "Battery cell diagram"
+        },
+        {
+          "title": "Iron Man's Reactor", "meta": "Marvel Cinematic Universe · 2008",
+          "blurb": "The fictional \"arc reactor\" glows the exact saturated cobalt-blue of every \"clean energy\" trope — a colour Hollywood reaches for when an audience needs to read \"future.\"",
+          "imageRef": "Film prop design"
+        },
+        {
+          "title": "Cobalt-60", "meta": "Medical isotope · radiation therapy",
+          "blurb": "The radioactive isotope cobalt-60 was the first widely used source for cancer radiotherapy — and gave the element a second 20th-century reputation as a destroyer of cells.",
+          "imageRef": "Medical apparatus"
+        }
+      ]
+    },
+    {
+      "id": "etymology", "label": "Etymology", "glyph": "quote",
+      "intro": "Cobalt is the rare element whose name is a slur — a curse the miners hurled at the ore before anyone knew what was inside it.",
+      "entries": [
+        {
+          "title": "\"Kobold\"", "meta": "German · mischievous mine spirit",
+          "blurb": "Saxon silver-miners blamed Crystal-blue \"useless\" ore on goblins who supposedly switched the silver for poison vapour. The word \"cobalt\" preserved the curse.",
+          "imageRef": "Medieval mining woodcut"
+        },
+        {
+          "title": "Element 27", "meta": "Georg Brandt · Sweden, 1735",
+          "blurb": "Brandt isolated cobalt from \"useless\" Saxon ore — the first metal discovered in the modern scientific sense. He published partly to vindicate the miners' suspicion that something was there.",
+          "imageRef": "Periodic table cell"
+        },
+        {
+          "title": "\"Mohammedan Blue\"", "meta": "Ming dynasty trade term",
+          "blurb": "The Persian-source cobalt that gave Ming porcelain its colour was called \"hui hui qing\" in Chinese — \"Mohammedan blue,\" a name preserving its Islamic-world origin.",
+          "imageRef": "Ming-Persian trade record"
+        }
+      ]
+    },
+    {
+      "id": "symbolism", "label": "Symbolism", "glyph": "eye",
+      "intro": "Cobalt's symbolism has shifted constantly — from goblin curse to imperial export to clean-energy salvation — but always carries an edge of value just beyond reach.",
+      "entries": [
+        {
+          "title": "German Folklore", "meta": "Saxon mining tradition",
+          "blurb": "The kobolds of German mining folklore weren't entirely malevolent — they sometimes helped honest miners. Cobalt-the-element kept the mountain-spirit's reputation.",
+          "imageRef": "Folk woodcut"
+        },
+        {
+          "title": "Imperial China", "meta": "Ming porcelain trade",
+          "blurb": "Cobalt-blue porcelain was the largest export of imperial China — paid for in silver, shipped across the Pacific, used as currency in colonial trade. A colour as money.",
+          "imageRef": "Export porcelain"
+        },
+        {
+          "title": "Conflict Mineral", "meta": "Modern supply-chain reckoning",
+          "blurb": "Today cobalt is on the EU's list of critical raw materials and a focus of conflict-mineral reporting — the colour of every smartphone, sourced under conditions buyers prefer not to see.",
+          "imageRef": "Mining region map"
+        }
+      ]
+    }
+  ]
+}
